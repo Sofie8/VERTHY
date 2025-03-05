@@ -7,7 +7,7 @@ nav:
 
 # About
 
-We are a two-member team—a biologist and an entrepreneur—delivering innovative solutions at the intersection of biotechnology and sustainable land management. Our expertise spans soil remediation, bioremediation, and nature-based environmental solutions, providing research, consulting, and practical applications to support sustainable ecosystems and productive landscapes.
+We are young dynamic team delivering innovative solutions at the intersection of biotechnology and sustainable land management. Our expertise spans soil remediation, bioremediation, and nature-based environmental solutions, providing research, consulting, and practical applications to support sustainable ecosystems and productive landscapes.
 
 {% include section.html %}
 
