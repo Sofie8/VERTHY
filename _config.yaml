@@ -4,16 +4,12 @@ subtitle: Engineering Nature
 description: 
 header: images/background.jpg
 footer: images/background.jpg
+
 proofer: false
 
 # site social media and other links
 links:
-  email: verthycv@gmail.com
-  orcid: 
-  google-scholar: 
-  github: Sofie8
-  twitter: 
-  youtube: 
+  github: CU-DBMI
 
 ### jekyll settings
 
@@ -71,3 +67,7 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
+
+# markdown options
+kramdown:
+  entity_output: :as_input
