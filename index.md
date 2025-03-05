@@ -42,7 +42,7 @@ We support soil remediation experts, agricultural professionals and individuals 
 
 {% 
   include feature.html
-  image="images/projects.png"
+  image="images/projects.PNG"
   title="What we do"
   text=text
   link="projects"
