@@ -1,9 +1,9 @@
 ---
 ---
 
-# Sofie8's Website
+# VERTHY
 
-An engaging 1-3 sentence description of your lab.
+Engineering Nature
 
 {% include section.html %}
 
