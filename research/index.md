@@ -1,14 +1,13 @@
 ---
-title: Research
+title: About
 nav:
   order: 1
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are a two-member team—a biologist and an entrepreneur—delivering innovative solutions at the intersection of biotechnology and sustainable land management. Our expertise spans soil remediation, bioremediation, and nature-based environmental solutions, providing research, consulting, and practical applications to support sustainable ecosystems and productive landscapes.
 
 {% include section.html %}
 
