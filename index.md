@@ -2,7 +2,7 @@
 ---
 
 {% capture text %}
-We are a two-member team—a biologist and an entrepreneur—delivering innovative solutions at the intersection of biotechnology and sustainable remediation.
+We are a young dynamic team delivering innovative solutions at the intersection of biotechnology and sustainable remediation.
 
 {%
   include button.html
