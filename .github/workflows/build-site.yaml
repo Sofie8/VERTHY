@@ -44,6 +44,11 @@ jobs:
         run: |
           printf "\n\nurl: ${{ steps.pages.outputs.origin }}" >> _config.yaml
 
+      - name: Check for non-UTF8 encoded files
+        run: |
+          echo "🔍 Checking for files that are NOT UTF-8 encoded..."
+          find . -type f \( -name "*.md" -o -name "*.html" -o -name "*.yml" \) -exec file -i {} \; | grep -v "utf-8" || echo "✅ All files UTF-8"
+
       - name: Build live version of site
         run: |
           JEKYLL_ENV=production bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path || '' }}"
