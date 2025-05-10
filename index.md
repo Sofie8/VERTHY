@@ -2,7 +2,7 @@
 ---
 
 {% capture text %}
-We are a young dynamic team delivering innovative solutions at the intersection of biotechnology and nature based solutions for sustainable remediation.
+We are a young  dynamic team delivering innovative solutions at the intersection of biotechnology and nature based solutions for sustainable remediation.
 
 {%
   include button.html
