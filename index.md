@@ -9,7 +9,7 @@ I’m Sofie Thijs, a molecular microbiologist working at the nexus of plants, so
   include feature.html
   image="images/who.jpg"
   title="Who I am"
-  text=I try to see and explain nature’s complexity—then turn it into solutions for healthy soils and resilient crops.
+  text=text1
   link="about"
 %}
 
