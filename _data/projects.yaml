@@ -1,47 +1,23 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: PLANTS — PFAS phytoremediation
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  description: >
+    Plant–microbe strategies to lower PFAS in soils and crops; screen genotypes,
+    inoculants/metabolites, and mineral amendments. Monitoring with qPCR,
+    amplicon/shotgun sequencing, and metabolomics. Outputs: reduced uptake or
+    enhanced degradation and a clear scale-up plan.
+  tags: [PFAS, phytoremediation]
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+- title: MIBIREM — Microbial toolbox for remediation
+  description: >
+    Targeted isolation and community engineering of robust degraders; decision
+    support via the MIBI-BIO model. Deliverables: validated strains/consortia,
+    SOPs, and monitoring markers for real-world pilots.
+  tags: [remediation, microbiome, modelling]
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+- title: Microbiome engineering for sustainable agriculture
+  description: >
+    Genome mining and plasmidomics to find traits for growth promotion, biocontrol,
+    and pollutant degradation; seed/foliar treatments and field validation with
+    success-control metrics.
+  tags: [agriculture, biocontrol, metabolomics]
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
