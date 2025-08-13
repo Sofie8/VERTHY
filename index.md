@@ -27,6 +27,13 @@ I’m Sofie Thijs, a molecular microbiologist working at the nexus of plants, so
 
 {% include section.html %}
 
+{% capture text2 %}
+- **Soil** — diagnose soil health, pollutants, and stressors; co-design nature-based remediation strategies.
+- **Plants** — select plants for phytoremediation and climate-smart growth; test seed and foliar interventions
+- **Bacteria & Fungi** — isolate, engineer and assemble microbial consortia for **growth promotion**, **biocontrol**, and **pollutant degradation**.
+- **From lab to field** — End-to-end workflows (feasibility → pilots → field validation according to the code of good practice phytoremediation) to reduce pollutant loads (incl. **PFAS**) and restore function.
+{% endcapture %}
+
 {% 
   include feature.html
   image="images/projects.PNG"
@@ -36,12 +43,6 @@ I’m Sofie Thijs, a molecular microbiologist working at the nexus of plants, so
   flip=true
 %}
 
-{% capture text2 %}
-- **Soil** — diagnose soil health, pollutants, and stressors; co-design nature-based remediation strategies.
-- **Plants** — select plants for phytoremediation and climate-smart growth; test seed and foliar interventions
-- **Bacteria & Fungi** — isolate, engineer and assemble microbial consortia for **growth promotion**, **biocontrol**, and **pollutant degradation**.
-- **From lab to field** — End-to-end workflows (feasibility → pilots → field validation according to the code of good practice phytoremediation) to reduce pollutant loads (incl. **PFAS**) and restore function.
-{% endcapture %}
 
 <div class="center">
   {%
