@@ -44,6 +44,13 @@ Now, as postdoc-coördinator (UHasselt), I lead applied microbiome projects that
   flip=true
 %}
 
+{% capture text3 %}
+- **Soil** — diagnose soil health, pollutants, and stressors; co-design nature-based remediation strategies.
+- **Plants** — select plants for phytoremediation and climate-smart growth; test seed and foliar interventions
+- **Bacteria & Fungi** — isolate, engineer and assemble microbial consortia for **growth promotion**, **biocontrol**, and **pollutant degradation**.
+- **From lab to field** — End-to-end workflows (feasibility → pilots → field validation according to the code of good practice phytoremediation) to reduce pollutant loads (incl. **PFAS**) and restore function.
+{% endcapture %}
+
 <div class="center">
   {%
     include button.html
