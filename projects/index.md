@@ -7,10 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-I design and validate **plant–microbe solutions** for cleaner soils and resilient crops.  
-From feasibility to field validation, our work follows the **Code of Good Practice for Phytoremediation** and combines **phytoremediation**, **microbiome engineering**, and **data-driven monitoring** (qPCR, amplicon/shotgun sequencing, metabolomics, modelling).
-
-**Who I work with:** soil & site remediation teams, environmental consultancies, regulators & municipalities, agri-food companies, and R&D groups.
+I run projects from  PFAS phytoremediation, microbiome engineering, bacterial genetics, genetic marker screening for downy-mildew resistance, and field pilots that turn data into cleaner soils and resilient crops.
 
 ---
 
@@ -20,7 +17,7 @@ From feasibility to field validation, our work follows the **Code of Good Practi
   Plant–microbe strategies to lower PFAS in soils and crops: screening plant genotypes, microbial inoculants/metabolites, and mineral amendments to reduce uptake or enhance degradation. Monitoring via soil analytics, plant-uptake, nutrient and soil type analyses, metagenomics, and metabolomics.
 
 - **Powdery mildew resistance in cold climate**  
-  Targeted strain isolation and community design for pollutant removal. Decision-support with the **MIBI-BIO** model. Deliverables include validated strains/consortia, protocols, and monitoring markers.
+  Breeding and selecting cold-hardy vines with durable resistance: field phenotyping, controlled inoculation, and marker screening of resistance loci using NGS.
 
 - **Microbiome engineering for sustainable agriculture**  
   Genome mining, plasmidomics, and metabolomics to uncover traits for plant growth promotion, biocontrol, and pollutant degradation. Bench-to-field workflows (seed and foliar treatments, formulation, and success-control metrics).
