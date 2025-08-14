@@ -36,7 +36,7 @@ I’m Sofie Thijs, a molecular microbiologist working at the nexus of plants, so
 
 {% 
   include feature.html
-  image="images/projects.PNG"
+  image="images/Project.png"
   title="What I do"
   text=text2
   link="projects"
