@@ -6,12 +6,14 @@
     amplicon/shotgun sequencing, and metabolomics. Outputs: reduced uptake or
     enhanced degradation and a clear scale-up plan.
   tags: [PFAS, phytoremediation]
+  image: /projects/img/pfas-phytoremediation.png
 
 - title: Powdery mildew resistance in cold climate
   description: >
     Breeding and selecting cold-hardy vines with durable resistance: field phenotyping, controlled inoculation, and marker screening of resistance loci.
     We validate lines under northern-season conditions and test biocontrol/beneficial microbes as part of an IPM strategy. 
   tags: [pathogen control, microbiome, IPM]
+  image: /projects/img/powdery-mildew-cold-climate.png
 
 - title: Microbiome engineering for sustainable agriculture
   description: >
@@ -19,4 +21,6 @@
     and pollutant degradation; seed/foliar treatments and field validation with
     success-control metrics.
   tags: [agriculture, biocontrol, metabolomics]
+  image: /projects/img/microbiome-engineering.png
+
 
