@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-We run projects from  PFAS phytoremediation, microbiome engineering, bacterial genetics and genetic marker screening for downy-mildew resistance in climate-smart grape vine breeding.
-
 ## Projects we run (at a glance)
 
 - **PFAS phytoremediation**  
