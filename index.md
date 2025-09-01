@@ -38,11 +38,12 @@ VERTHY stands for consultancy in ecological site restoration, remediation and bi
 <div class="center">
   {%
     include button.html
-    link="about"
-    title="Who we are"
-    text="Learn more about us"
+    link="projects"
+    text="My projects"
     icon="fas fa-arrow-right"
     flip=true
     style="button"
   %}
+</div>
+
 </div>
