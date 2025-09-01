@@ -22,19 +22,19 @@ Our team brings together national and international expertise to perform **in si
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
 
   <div style="flex: 1 1 200px; max-width: 200px; text-align: center;">
-    <img src="images/20220808_105058-zoomed.jpg" alt="Team member 1" style="width:100%; height:auto; border-radius:8px;">
+    <img src="/VERTHY/images/20220808_105058-zoomed.jpg" alt="Team member 1" style="width:100%; height:auto; border-radius:8px;">
   </div>
 
   <div style="flex: 1 1 200px; max-width: 200px; text-align: center;">
-    <img src="images/ewout.png" alt="Team member 2" style="width:100%; height:auto; border-radius:8px;">
+    <img src="/VERTHY/images/ewout.png" alt="Team member 2" style="width:100%; height:auto; border-radius:8px;">
   </div>
 
   <div style="flex: 1 1 200px; max-width: 200px; text-align: center;">
-    <img src="images/reactor.png" alt="Team member 3" style="width:100%; height:auto; border-radius:8px;">
+    <img src="/VERTHY/images/reactor.png" alt="Team member 3" style="width:100%; height:auto; border-radius:8px;">
   </div>
 
   <div style="flex: 1 1 200px; max-width: 200px; text-align: center;">
-    <img src="images/antarctic.jpg" alt="Team member 4" style="width:100%; height:auto; border-radius:8px;">
+    <img src="/VERTHY/images/antarctic.jpg" alt="Team member 4" style="width:100%; height:auto; border-radius:8px;">
   </div>
 
 </div>
@@ -46,7 +46,7 @@ Our team brings together national and international expertise to perform **in si
 We provide high-quality consultancy and hands-on support in **phytoremediation** and **microbiome-enabled environmental solutions**—from feasibility to field validation and success-control monitoring. Our work follows the **Code of Good Practice for Phytoremediation** and serves soil-remediation specialists, environmental consultants, regulators, municipalities, and agricultural professionals.
 
 <div style="text-align:center;">
-  <img src="images/Project.png" alt="Project" style="max-width:600px; width:100%; height:auto;">
+  <img src="/VERTHY/images/Project.png" alt="Project" style="max-width:600px; width:100%; height:auto;">
 </div>
 
 ### Who we work with
