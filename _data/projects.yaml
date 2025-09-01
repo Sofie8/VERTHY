@@ -5,14 +5,14 @@
     inoculants/metabolites, and mineral amendments. Monitoring with qPCR,
     amplicon/shotgun sequencing, and metabolomics. Outputs: reduced uptake or
     enhanced degradation and a clear scale-up plan.
-  tags: [PFAS, phytoremediation]
+  tags: [PFAS, phytoremediation, biostimulants]
   image: /projects/IMG-20250805-WA0011.jpg
 
 - title: Powdery mildew resistance in cold climate
   description: >
     Breeding and selecting cold-hardy vines with durable resistance: field phenotyping,
     controlled inoculation, and marker screening of resistance loci.
-  tags: [pathogen control, microbiome, IPM]
+  tags: [pathogen control, microbiome, CRISPR-cas9]
   image: /projects/minion.jpg
 
 - title: Microbiome engineering for sustainable agriculture
