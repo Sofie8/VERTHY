@@ -2,7 +2,7 @@
 ---
 
 {% capture text1 %}
-VERTHY stands for consultancy in ecological site restoration, remediation and biotechnology. We design microbe- and plant-based solutions that detoxify polluted environments and promote sustainable crop growth. From DNA to field trials, I translate microbial ecology into practical tools for cleaner soils and sustainable agriculture.
+VERTHY stands for consultancy in  remediation and ecological site restoration. We design microbe- and plant-based solutions that detoxify polluted environments and promote sustainable crop growth. From DNA to field trials, we translate microbial ecology into practical tools for cleaner soils and sustainable agriculture.
 {% endcapture %}
 
 {% 
@@ -39,7 +39,7 @@ VERTHY stands for consultancy in ecological site restoration, remediation and bi
   {%
     include button.html
     link="projects"
-    text="My projects"
+    text="Our projects"
     icon="fas fa-arrow-right"
     flip=true
     style="button"
