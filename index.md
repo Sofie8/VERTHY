@@ -8,7 +8,7 @@ VERTHY stands for consultancy in ecological site restoration, remediation and bi
 {% 
   include feature.html
   image="images/20220808_124510.jpg"
-  title="Microbial Soilutions"
+  title="Microbial Soil-utions"
   text=text1
   link="about"
 %}
@@ -34,3 +34,15 @@ VERTHY stands for consultancy in ecological site restoration, remediation and bi
 
 ## More
 {% include list.html component="card" data="projects" filter="!group" style="small" %}
+
+<div class="center">
+  {%
+    include button.html
+    link="about"
+    title="Who we are"
+    text="Learn more about us"
+    icon="fas fa-arrow-right"
+    flip=true
+    style="button"
+  %}
+</div>
