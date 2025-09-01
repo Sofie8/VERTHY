@@ -21,7 +21,7 @@ Our team brings together national and international expertise to perform **in si
 
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
 
-  <div style="flex: 1 1 200px; max-width: 200px; text-align: center;">
+  <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
     <img src="/VERTHY/images/20250718_105058-zoomed.jpg" alt="Team member 1" style="width:100%; height:auto; border-radius:8px;">
   </div>
 
@@ -29,7 +29,7 @@ Our team brings together national and international expertise to perform **in si
     <img src="/VERTHY/images/reactor.png" alt="Team member 3" style="width:100%; height:auto; border-radius:8px;">
   </div>
 
-  <div style="flex: 1 1 200px; max-width: 200px; text-align: center;">
+  <div style="flex: 1 1 250px; max-width: 250px; text-align: center;">
     <img src="/VERTHY/images/antarctic.jpg" alt="Team member 4" style="width:100%; height:auto; border-radius:8px;">
   </div>
 
