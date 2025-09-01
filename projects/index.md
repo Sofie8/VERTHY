@@ -7,11 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-I run projects from  PFAS phytoremediation, microbiome engineering, bacterial genetics, genetic marker screening for downy-mildew resistance, and field pilots that turn data into cleaner soils and resilient crops.
+We run projects from  PFAS phytoremediation, microbiome engineering, bacterial genetics and genetic marker screening for downy-mildew resistance in climate-smart grape vine breeding.
 
 ---
 
-## Projects I run (at a glance)
+## Projects we run (at a glance)
 
 - **PFAS phytoremediation**  
   Plant–microbe strategies to lower PFAS in soils and crops: screening plant genotypes, microbial inoculants/metabolites, and mineral amendments to reduce uptake or enhance degradation. Monitoring via soil analytics, plant-uptake, nutrient and soil type analyses, metagenomics, and metabolomics.
