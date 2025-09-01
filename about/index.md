@@ -19,6 +19,14 @@ Now, as a postdoc at UHasselt, I lead applied microbiome projects that connect g
 
 We provide high-quality consultancy and hands-on support in **phytoremediation** and **microbiome-enabled environmental solutions**—from feasibility to field validation and success-control monitoring. Our work follows the **Code of Good Practice for Phytoremediation** and serves soil-remediation specialists, environmental consultants, regulators, municipalities, and agricultural professionals.
 
+{% 
+  include feature.html
+  image="images/Project.png"
+  title="What we do"
+  text=text2
+  link="projects"
+  flip=true
+%}
 
 
 ### Who we work with
