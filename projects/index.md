@@ -20,23 +20,11 @@ We run projects from  PFAS phytoremediation, microbiome engineering, bacterial g
 {% 
   include feature.html
   image="images/Project.png"
-  title="What I do"
+  title="What we do"
   text=text2
   link="projects"
   flip=true
 %}
-
-
-<div class="center">
-  {%
-    include button.html
-    link="projects"
-    text="My projects"
-    icon="fas fa-arrow-right"
-    flip=true
-    style="button"
-  %}
-</div>
 
 
 ## Projects we run (at a glance)
