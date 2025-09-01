@@ -45,5 +45,3 @@ VERTHY stands for consultancy in  remediation and ecological site restoration. W
     style="button"
   %}
 </div>
-
-</div>
