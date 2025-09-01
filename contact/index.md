@@ -41,11 +41,11 @@ Questions, collaborations, or project requests? We’d love to hear from you.
 {% capture col1 %}
 When the problem’s in the ground,
 the answer is too —
-microbial soil-utions.
+microbial soil-utions!
 {% endcapture %}
 
 {% capture col2 %}
-I try to see and explain nature’s complexity
+We try to see and explain nature’s complexity
 then turn it into solutions
 for healthy soils and
 resilient crops.
