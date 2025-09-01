@@ -62,9 +62,8 @@ resilient crops.
 {% endcapture %}
 
 {% capture col3 %}
-One of the first conditions of happiness
-is that the link between man and nature
-shall not be broken (Tolstoy).
+To solve environmental challenges,
+we must first become students of nature.
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
