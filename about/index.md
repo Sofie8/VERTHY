@@ -41,8 +41,10 @@ Our team brings together national and international expertise to perform **in si
 
 We provide high-quality consultancy and hands-on support in **phytoremediation** and **microbiome-enabled environmental solutions**—from feasibility to field validation and success-control monitoring. Our work follows the **Code of Good Practice for Phytoremediation** and serves soil-remediation specialists, environmental consultants, regulators, municipalities, and agricultural professionals.
 
-<div style="text-align:center;">
-  <img src="/VERTHY/images/Project.png" alt="Project" style="max-width:600px; width:100%; height:auto;">
+<div style="text-align:center; margin:0; padding:0;">
+  <img src="/VERTHY/images/Project.png" 
+       alt="Project" 
+       style="max-width:600px; width:100%; height:auto; margin:0; display:block;">
 </div>
 
 ### Who we work with
