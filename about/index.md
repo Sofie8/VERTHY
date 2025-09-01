@@ -7,7 +7,7 @@ nav:
 
 # About
 
-I’m an enthusiastic, forward-thinking biologist and data analyst. I earned a BSc in Biology and an MSc in Environmental & Health Sciences. During my PhD (2015), I isolated the soil bacterium *Raoultella ornithinolytica* strain TNT and discovered its **N-ethylmaleimide reductase (NEM)** gene. I described the genome, overexpressed the gene, purified the protein, and demonstrated that **NEM has nitroreductase activity toward TNT** with kinetics comparable to the PETN-reductase from *Enterobacter cloacae*.
+I’m founder and CEO of VERTHY, and an enthusiastic, forward-thinking biologist and data analyst. I earned a BSc in Biology and an MSc in Environmental & Health Sciences. During my PhD (2015), I isolated the soil bacterium *Raoultella ornithinolytica* strain TNT and discovered its **N-ethylmaleimide reductase (NEM)** gene. I described the genome, overexpressed the gene, purified the protein, and demonstrated that **NEM has nitroreductase activity toward TNT** with kinetics comparable to the PETN-reductase from *Enterobacter cloacae*.
 
 As a postdoc in the Neufeld Lab (University of Waterloo, Canada), I co-developed **GORDIAN**—a density-gradient workflow to recover high-quality draft genomes from complex metagenomes—while deepening my bioinformatics expertise.
 
