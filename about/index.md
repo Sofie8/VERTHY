@@ -45,13 +45,9 @@ Our team brings together national and international expertise to perform **in si
 
 We provide high-quality consultancy and hands-on support in **phytoremediation** and **microbiome-enabled environmental solutions**—from feasibility to field validation and success-control monitoring. Our work follows the **Code of Good Practice for Phytoremediation** and serves soil-remediation specialists, environmental consultants, regulators, municipalities, and agricultural professionals.
 
-{% 
-  include feature.html
-  image="images/Project.png"
-  link="projects"
-  flip=true
-%}
-
+<div style="text-align:center;">
+  <img src="images/Project.png" alt="Project" style="max-width:600px; width:100%; height:auto;">
+</div>
 
 ### Who we work with
 - Soil & site remediation teams (public and private)  
@@ -79,7 +75,7 @@ We provide high-quality consultancy and hands-on support in **phytoremediation**
 
 ## Contact
 
-**Request support** — start here to scope a project and work with me.
+**Request support** — start here to scope a project and work with us.
 
 {% include button.html link="https://github.com/CU-DBMI/set-intake" text="Request Support" icon="fas fa-handshake-angle" style="button" %}
 
