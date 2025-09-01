@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Questions, collaborations, or project requests? I’d love to hear from you.
+Questions, collaborations, or project requests? We’d love to hear from you.
 
 {%
   include button.html
@@ -29,16 +29,6 @@ Questions, collaborations, or project requests? I’d love to hear from you.
 {%
   include figure.html
   image="images/photo1.jpg"
-  caption=""
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo2.jpg"
   caption=""
 %}
 
