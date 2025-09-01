@@ -2,13 +2,13 @@
 ---
 
 {% capture text1 %}
-I’m Sofie Thijs, a molecular microbiologist working at the nexus of plants, soils, and their microbiomes. I design microbe- and plant-based solutions that detoxify polluted environments and make crops more resilient. From DNA to field trials, I translate microbial ecology into practical tools for cleaner soils and sustainable agriculture.
+VERTHY stands for consultancy in ecological restoration, biotechnology and remediation. We design microbe- and plant-based solutions that detoxify polluted environments. From DNA to field trials, I translate microbial ecology into practical tools for cleaner soils and sustainable agriculture in a changing climate.
 {% endcapture %}
 
 {% 
   include feature.html
   image="images/who.jpg"
-  title="Who I am"
+  title="Microbial Soilutions"
   text=text1
   link="about"
 %}
@@ -17,8 +17,8 @@ I’m Sofie Thijs, a molecular microbiologist working at the nexus of plants, so
   {%
     include button.html
     link="about"
-    title="Who I am"
-    text="Learn more about me"
+    title="Who we are"
+    text="Learn more about us"
     icon="fas fa-arrow-right"
     flip=true
     style="button"
