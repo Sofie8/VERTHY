@@ -22,19 +22,19 @@ Our team brings together national and international expertise to perform **in si
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
 
   <div style="flex: 1 1 200px; max-width: 200px; text-align: center;">
-    <img src="images/team1.png" alt="Team member 1" style="width:100%; height:auto; border-radius:8px;">
+    <img src="images/20220808_105058-zoomed.jpg" alt="Team member 1" style="width:100%; height:auto; border-radius:8px;">
   </div>
 
   <div style="flex: 1 1 200px; max-width: 200px; text-align: center;">
-    <img src="images/team2.png" alt="Team member 2" style="width:100%; height:auto; border-radius:8px;">
+    <img src="images/ewout.png" alt="Team member 2" style="width:100%; height:auto; border-radius:8px;">
   </div>
 
   <div style="flex: 1 1 200px; max-width: 200px; text-align: center;">
-    <img src="images/team3.png" alt="Team member 3" style="width:100%; height:auto; border-radius:8px;">
+    <img src="images/reactor.png" alt="Team member 3" style="width:100%; height:auto; border-radius:8px;">
   </div>
 
   <div style="flex: 1 1 200px; max-width: 200px; text-align: center;">
-    <img src="images/team4.png" alt="Team member 4" style="width:100%; height:auto; border-radius:8px;">
+    <img src="images/antarctic.jpg" alt="Team member 4" style="width:100%; height:auto; border-radius:8px;">
   </div>
 
 </div>
