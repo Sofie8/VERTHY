@@ -2,7 +2,7 @@
 ---
 
 {% capture text1 %}
-VERTHY stands for consultancy in ecological restoration, biotechnology and remediation. We design microbe- and plant-based solutions that detoxify polluted environments. From DNA to field trials, I translate microbial ecology into practical tools for cleaner soils and sustainable agriculture in a changing climate.
+VERTHY stands for consultancy in ecological site restoration, remediation and biotechnology. We design microbe- and plant-based solutions that detoxify polluted environments and promote sustainable crop growth. From DNA to field trials, I translate microbial ecology into practical tools for cleaner soils and sustainable agriculture.
 {% endcapture %}
 
 {% 
@@ -27,31 +27,10 @@ VERTHY stands for consultancy in ecological restoration, biotechnology and remed
 
 {% include section.html %}
 
-{% capture text2 %}
-- **Soil** — diagnose soil health, pollutants, and stressors; co-design nature-based remediation strategies.
-- **Plants** — select plants for phytoremediation and climate-smart growth; test seed and foliar interventions
-- **Bacteria & Fungi** — isolate, engineer and assemble microbial consortia for **growth promotion**, **biocontrol**, and **pollutant degradation**.
-- **From lab to field** — End-to-end workflows (feasibility → pilots → field validation according to the code of good practice phytoremediation) to reduce pollutant loads (incl. **PFAS**) and restore function.
-{% endcapture %}
+## Featured
+{% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
-{% 
-  include feature.html
-  image="images/Project.png"
-  title="What I do"
-  text=text2
-  link="projects"
-  flip=true
-%}
+{% include section.html %}
 
-
-<div class="center">
-  {%
-    include button.html
-    link="projects"
-    text="My projects"
-    icon="fas fa-arrow-right"
-    flip=true
-    style="button"
-  %}
-</div>
-
+## More
+{% include list.html component="card" data="projects" filter="!group" style="small" %}
