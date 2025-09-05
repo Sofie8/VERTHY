@@ -37,13 +37,13 @@ Click below to explore our products or meet our team.
 <!-- Two clickable logo tiles -->
 <div style="display:grid; grid-template-columns: 1fr; gap:24px; align-items:center; justify-items:center; margin: 2rem 0;">
   <a href="{{ '/env/' | relative_url }}" style="text-align:center; text-decoration:none;">
-    <img src="{{ '/images/verthy-env.png' | relative_url }}" alt="VERTHY ENV" style="max-width:220px; height:auto;">
+    <img src="{{ '/images/VERTHY_ENV_ENG.png' | relative_url }}" alt="VERTHY ENV" style="max-width:220px; height:auto;">
     <div style="font-weight:700; font-size:1.4rem; color:#2a9ea0; margin-top:0.5rem;">VERTHY ENV</div>
     <div style="color:#5a7f86;">Ecological remediation</div>
   </a>
 
   <a href="{{ '/ag/' | relative_url }}" style="text-align:center; text-decoration:none;">
-    <img src="{{ '/images/verthy-ag.png' | relative_url }}" alt="VERTHY AG" style="max-width:220px; height:auto;">
+    <img src="{{ '/images/VERTHY_AG_ENG.png' | relative_url }}" alt="VERTHY AG" style="max-width:220px; height:auto;">
     <div style="font-weight:700; font-size:1.4rem; color:#2a9ea0; margin-top:0.5rem;">VERTHY AG</div>
     <div style="color:#5a7f86;">Engineering Nature</div>
   </a>
