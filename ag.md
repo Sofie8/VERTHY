@@ -4,4 +4,6 @@ title: VERTHY AG
 permalink: /ag/
 ---
 
-Content for your agriculture offering…
+# VERTHY AG
+Plant & microbial genetics, microbial ecology in the field, and bioproducts for sustainable agriculture.  
+(Add content, images, and links here.)
