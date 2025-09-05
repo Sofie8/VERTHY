@@ -4,4 +4,6 @@ title: VERTHY ENV
 permalink: /env/
 ---
 
-Content for your environmental / remediation offering…
+# VERTHY ENV
+Ecological remediation, soil quality assessments, PFAS strategy, and integrated site solutions.  
+(Add content, images, and links here.)
