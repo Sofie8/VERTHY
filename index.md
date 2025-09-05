@@ -2,84 +2,85 @@
 layout: default
 ---
 
-{% capture text1 %}
-VERTHY offers expertise in soil, ecology, and genetics.  
-With us you can rely on:
+# Total Soil-utions, naturally!
 
-- **Integrated soil analyses and advice** for ecological site restoration.  
-- **Genetic analyses** of plants and microbes for sustainable agriculture.  
-- **Support from lab to field**: from DNA studies and pilot tests to monitoring full-scale projects.  
+<!-- Wide banner image -->
+<img src="{{ '/images/startfoto.jpg' | relative_url }}" alt="VERTHY banner" style="width:100%; height:auto; margin: 1rem 0; border-radius:8px;">
 
-Our mission is to turn science into practical tools for cleaner soils and resilient crops.  
-Click below to explore our products or meet our team.
-{% endcapture %}
+<!-- Text block under image -->
+<div style="max-width:800px; margin: 0 auto; text-align:left;">
+  <p><strong>VERTHY</strong> offers expertise in soil, ecology, and genetics.</p>
 
-{% include feature.html
-  image="images/startfoto.jpg"
-  title="Total Soil-utions, naturally!"
-  text=text1
-  link="about"
-%}
+  <p>With us you can rely on:</p>
+  <ul>
+    <li><strong>Integrated soil analyses and advice</strong> for ecological site restoration.</li>
+    <li><strong>Genetic analyses</strong> of plants and microbes for sustainable agriculture.</li>
+    <li><strong>Support from lab to field:</strong> from DNA studies and pilot tests to monitoring full-scale projects.</li>
+  </ul>
 
-<div class="center">
-  {% include button.html
-    link="about"
-    title="Who we are"
-    text="Learn more about us"
-    icon="fas fa-arrow-right"
-    flip=true
-    style="button"
-  %}
+  <p>Our mission is to turn science into practical tools for cleaner soils and resilient crops.</p>
 </div>
 
-{% include section.html %}
-
-<!-- Two clickable logo tiles -->
-<div style="display:grid; grid-template-columns: 1fr; gap:24px; align-items:center; justify-items:center; margin: 2rem 0;">
-  <a href="{{ '/env/' | relative_url }}" style="text-align:center; text-decoration:none;">
-    <img src="{{ '/images/VERTHY_ENV_ENG.png' | relative_url }}" alt="VERTHY ENV" style="max-width:220px; height:auto;">
-    <div style="font-weight:700; font-size:1.4rem; color:#2a9ea0; margin-top:0.5rem;">VERTHY ENV</div>
-    <div style="color:#5a7f86;">Ecological remediation</div>
+<!-- Buttons side by side -->
+<div class="verthy-buttons">
+  <a href="{{ '/env/' | relative_url }}" class="verthy-card">
+    <img src="{{ '/images/VERTHY_ENV_ENG.png' | relative_url }}" alt="VERTHY ENV">
+    <div class="title">VERTHY ENV</div>
+    <div class="subtitle">Ecological remediation</div>
   </a>
 
-  <a href="{{ '/ag/' | relative_url }}" style="text-align:center; text-decoration:none;">
-    <img src="{{ '/images/VERTHY_AG_ENG.png' | relative_url }}" alt="VERTHY AG" style="max-width:220px; height:auto;">
-    <div style="font-weight:700; font-size:1.4rem; color:#2a9ea0; margin-top:0.5rem;">VERTHY AG</div>
-    <div style="color:#5a7f86;">Engineering Nature</div>
+  <a href="{{ '/ag/' | relative_url }}" class="verthy-card">
+    <img src="{{ '/images/verthy-ag.png' | relative_url }}" alt="VERTHY AG">
+    <div class="title">VERTHY_AG_ENG</div>
+    <div class="subtitle">Engineering Nature</div>
   </a>
 </div>
 
 <style>
-@media (min-width: 700px){
-  .page-content > div[style*="grid-template-columns"]{
-    grid-template-columns: 1fr 1fr !important;
-  }
+.verthy-buttons {
+  display:flex;
+  justify-content:center;
+  gap:40px;
+  margin:2rem 0;
+  flex-wrap:wrap;
 }
-a:hover img { transform: translateY(-2px); transition: 150ms; }
+
+.verthy-card {
+  text-align:center;
+  text-decoration:none;
+  transition: all 0.25s ease;
+}
+
+.verthy-card img {
+  max-width:200px;
+  height:auto;
+  transition: transform 0.25s ease;
+}
+
+.verthy-card .title {
+  font-weight:700;
+  font-size:1.2rem;
+  color:#2a9ea0;
+  margin-top:0.5rem;
+  transition: color 0.25s ease;
+}
+
+.verthy-card .subtitle {
+  color:#5a7f86;
+  transition: color 0.25s ease;
+}
+
+/* Hover effect */
+.verthy-card:hover img {
+  transform: translateY(-6px);
+}
+
+.verthy-card:hover .title {
+  color:#186c6d;
+}
+
+.verthy-card:hover .subtitle {
+  color:#2a9ea0;
+}
 </style>
-
-{% include section.html %}
-
-<!-- News section -->
-<h2 id="news">News</h2>
-<ul>
-  {% for post in site.posts limit:3 %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <span style="color:#6b7280;"> — {{ post.date | date: "%d %b %Y" }}</span>
-      {% if post.excerpt %}<div>{{ post.excerpt }}</div>{% endif %}
-    </li>
-  {% endfor %}
-</ul>
-
-<div class="center" style="margin-top:1rem;">
-  {% include button.html
-    link="news"
-    title="All news"
-    text="See all updates"
-    icon="fas fa-newspaper"
-    flip=true
-    style="button"
-  %}
-</div>
 
