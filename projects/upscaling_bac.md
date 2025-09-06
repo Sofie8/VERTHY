@@ -34,11 +34,11 @@ permalink: /projects/upscaling/
       <div>
         <h3>Overview</h3>
         <p>
-          Certain soil, rhizospheric and endophytic bacteria can boost pollutant degradation.
+          Certain soil, rhizospheric and endophytic <strong>bacteria can boost pollutant degradation</strong>.
           We identify, validate, and scale microbial strains and their functions that improve pollutant detoxification.
-          By enhancing their gene expression, we accelerate phytoremediation and expand nature’s own detoxification capacity.
+          By enhancing their <strong>gene expression</strong>, we accelerate phytoremediation and expand nature’s own detoxification capacity.
           For this project, we upscaled an oil- and PAH-degrading bacterial inoculum to tackle a kerosene spill,
-          demonstrating how targeted microbial consortia can boost both remediation efficiency and plant resilience. 
+          demonstrating how <strong>targeted microbial consortia</strong> can boost both remediation efficiency and plant resilience. 
         </p>
 
         <h3>What we did</h3>
@@ -137,9 +137,10 @@ permalink: /projects/upscaling/
 }
 .results-figure img {
   display: block;
-  width: 80%;
+  width: 90%;
   height: auto;
   border-radius: 10px;
+  figure-align: center;
 }
 .results-figure figcaption {
   font-size: 0.85rem;
