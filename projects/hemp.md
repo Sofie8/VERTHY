@@ -52,7 +52,7 @@ permalink: /projects/pfas-phytoremediation/
       <div>
         <h3>Outcomes</h3>
         <ul>
-          <li><strong>4–95% reductions</strong> in PFAS concentrations in the top soil.</li>
+          <li><strong>4 % (border) to 95% (center of the plot) reductions</strong> in PFAS concentrations in the top soil.</li>
           <li><strong>Reduced PFAS spread from topsoil</strong> through stabilization by 3 million hemp plants.</li>
           <li>A <strong>clear scale-up plan</strong> shown with successful field implementation.</li>
         </ul>
