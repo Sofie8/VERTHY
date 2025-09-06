@@ -15,7 +15,7 @@ permalink: /projects/pfas-phytoremediation/
   <div class="project-body">
     <h1 class="project-title">{{ page.title }}</h1>
 
-    <!-- Subtitle -->
+    <!-- Subtitle (meta line under title) -->
     {% if page.subtitle %}
       <p class="project-meta">{{ page.subtitle }}</p>
     {% endif %}
@@ -43,8 +43,8 @@ permalink: /projects/pfas-phytoremediation/
 
         <h3>What we did</h3>
         <ul>
-          <li>Screened <strong>hemp genotypes for fast growth and root development</strong>, Collected <strong>soil and plant samples</strong>.</li>
-          <li>Monitored responses using <strong>PFAS soil analyses</strong>, and <strong>PFAS plant analyses</strong>.</li>
+          <li>Screened <strong>hemp genotypes for fast growth and root development</strong>, collected <strong>soil and plant samples</strong>.</li>
+          <li>Monitored responses using <strong>PFAS soil analyses</strong> and <strong>PFAS plant analyses</strong>.</li>
         </ul>
       </div>
 
@@ -57,13 +57,12 @@ permalink: /projects/pfas-phytoremediation/
         </ul>
 
         <!-- Results figure -->
-        <div style="text-align:center; margin:1rem 0 0;">
-          {% include figure.html
-             image="/images/ZABRA1.png"
-             caption="Example results: PFAS reduction and limiting of further spread after phytoremediation pilot with industrial hemp."
-             style="display:block; margin:0 auto; max-width:0.3px; border-radius:10px;"
-          %}
-        </div>
+        <figure class="results-figure">
+          <img src="{{ '/images/ZABRA1.png' | relative_url }}" alt="PFAS results">
+          <figcaption>
+            Example results: PFAS reduction and limiting of further spread after phytoremediation pilot with industrial hemp.
+          </figcaption>
+        </figure>
 
         <p style="margin-top:0.8rem;">
           This project ties desktop work with practical field testing to make contaminated soils cleaner and safer, 
@@ -94,8 +93,8 @@ permalink: /projects/pfas-phytoremediation/
 .project-body{ padding: 1.25rem 1.5rem 1.75rem; }
 .project-title{ margin: .2rem 0 0; font-size: 1.9rem; }
 
-/* Subtitle style */
-.project-meta{ color:#64748b; font-size:0.95rem; margin:0.25rem 0 1rem; }
+/* Meta subtitle just under title */
+.project-meta{ color:#64748b; font-size:0.95rem; margin:0.2rem 0 0.8rem; }
 
 .project-subtitle{ color:#475569; margin: .25rem 0 1rem; font-size:1.1rem; }
 
@@ -119,4 +118,23 @@ permalink: /projects/pfas-phytoremediation/
 .btn:hover{ transform: translateY(-2px); box-shadow:0 8px 20px rgba(0,0,0,.08); }
 .btn.primary{ background:#217f82; color:#fff; border-color:#217f82; }
 .btn.primary:hover{ background:#186c6d; border-color:#186c6d; }
+
+/* Results figure styling */
+.results-figure {
+  max-width: 320px;   /* smaller, keeps card layout clean */
+  margin: 1rem auto;
+  border-radius: 10px;
+  text-align: center;
+}
+.results-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+.results-figure figcaption {
+  font-size: 0.85rem;
+  color: #64748b;
+  margin-top: 0.4rem;
+}
 </style>
