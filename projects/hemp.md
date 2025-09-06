@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PFAS Phytoremediation
-summary: "Plant–microbe strategies to reduce PFAS in soils and crops."
+summary: "Plant–microbe strategies to reduce PFAS in soils and groundwater."
 hero: /images/hemp.jpg
 permalink: /projects/pfas-phytoremediation/
 ---
@@ -27,13 +27,13 @@ permalink: /projects/pfas-phytoremediation/
       <div>
         <h3>Overview</h3>
         <p>
-          At VERTHY we explore <strong>plant–microbe strategies</strong> to lower PFAS levels in soils and crops.  
+          At VERTHY we explore <strong>plant–microbe-soil additive strategies</strong> to lower PFAS levels in soils and groundwater.  
           Our work combines ecological knowledge with advanced molecular tools to design effective remediation pathways.
         </p>
 
         <h3>What we do</h3>
         <ul>
-          <li>Screen <strong>plant genotypes</strong>, microbial <strong>inoculants</strong> and <strong>metabolites</strong>, and natural <strong>mineral amendments</strong>.</li>
+          <li>Screen <strong>plant genotypes</strong>, microbial <strong>inoculants</strong> and natural <strong>mineral amendments</strong>.</li>
           <li>Monitor microbial and plant responses using <strong>qPCR</strong>, <strong>amplicon/shotgun sequencing</strong>, and <strong>metabolomics</strong>.</li>
         </ul>
       </div>
@@ -41,14 +41,14 @@ permalink: /projects/pfas-phytoremediation/
       <div>
         <h3>Expected outcomes</h3>
         <ul>
-          <li><strong>Reduced PFAS uptake</strong> in crops.</li>
-          <li><strong>Enhanced degradation pathways</strong> through optimized plant–microbe interactions.</li>
+          <li><strong>Reductions</strong> in soil and groundwater PFAS concentration.</li>
+          <li><strong>Enhanced groundwater plume control</strong> through optimized plant species choice and amendments.</li>
           <li>A <strong>clear scale-up plan</strong> for field implementation.</li>
         </ul>
 
         <p>
           This project brings together laboratory innovation and practical field testing, 
-          with the goal of making contaminated soils safer and supporting sustainable land use.
+          with the goal of making contaminated soils cleaner, safer and supporting sustainable land use.
         </p>
       </div>
     </div>
