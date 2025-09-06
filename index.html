@@ -470,18 +470,14 @@
   <p>Our mission is to turn science into practical tools for cleaner soils and resilient crops.</p>
 </div>
 
-<!-- Buttons side by side -->
+<!-- Logos side by side as big buttons -->
 <div class="verthy-buttons">
   <a href="/VERTHY/env/" class="verthy-card">
     <img src="/VERTHY/images/VERTHY_ENV_ENG.png" alt="VERTHY ENV">
-    <div class="title">VERTHY ENV</div>
-    <div class="subtitle">Ecological remediation</div>
   </a>
 
   <a href="/VERTHY/ag/" class="verthy-card">
-    <img src="/VERTHY/images/verthy-ag.png" alt="VERTHY AG">
-    <div class="title">VERTHY_AG_ENG</div>
-    <div class="subtitle">Engineering Nature</div>
+    <img src="/VERTHY/images/VERTHY_AG_ENG.png" alt="VERTHY AG">
   </a>
 </div>
 
@@ -489,49 +485,83 @@
 .verthy-buttons {
   display:flex;
   justify-content:center;
-  gap:40px;
-  margin:2rem 0;
+  gap:80px;
+  margin:3rem 0;
   flex-wrap:wrap;
 }
 
-.verthy-card {
-  text-align:center;
-  text-decoration:none;
-  transition: all 0.25s ease;
-}
-
 .verthy-card img {
-  max-width:200px;
+  max-width:300px; /* Bigger logos */
   height:auto;
-  transition: transform 0.25s ease;
-}
-
-.verthy-card .title {
-  font-weight:700;
-  font-size:1.2rem;
-  color:#2a9ea0;
-  margin-top:0.5rem;
-  transition: color 0.25s ease;
-}
-
-.verthy-card .subtitle {
-  color:#5a7f86;
-  transition: color 0.25s ease;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
 /* Hover effect */
 .verthy-card:hover img {
-  transform: translateY(-6px);
-}
-
-.verthy-card:hover .title {
-  color:#186c6d;
-}
-
-.verthy-card:hover .subtitle {
-  color:#2a9ea0;
+  transform: translateY(-8px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
 }
 </style>
+
+<!-- News section -->
+  </section>
+
+  
+  
+  
+
+  <section class="background" data-size="page">
+    <!--
+  <background></background>
+  <dark></dark>
+  <size></size>
+-->
+
+<h2 id="news">News</h2>
+<ul>
+  
+    <li>
+      <a href="/VERTHY/2023/02/23/example-post-3.html">Example post 3</a>
+      <span style="color:#6b7280;"> — 23 Feb 2023</span>
+      <div>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+</div>
+    </li>
+  
+    <li>
+      <a href="/VERTHY/2021/09/30/example-post-2.html">Example post 2</a>
+      <span style="color:#6b7280;"> — 30 Sep 2021</span>
+      <div>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+</div>
+    </li>
+  
+    <li>
+      <a href="/VERTHY/2019/01/07/example-post-1.html">Example post 1</a>
+      <span style="color:#6b7280;"> — 07 Jan 2019</span>
+      <div>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+</div>
+    </li>
+  
+</ul>
+
+<div class="center" style="margin-top:1rem;">
+  
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="/VERTHY/news" data-style="button" data-flip="" aria-label="fas fa-newspaper">
+      <i class="icon fas fa-newspaper"></i>
+      
+        <span>See all updates</span>
+      
+    </a>
+  </div>
+
+
+</div>
   </section>
 
 
