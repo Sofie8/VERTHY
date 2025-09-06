@@ -9,19 +9,15 @@ layout: default
 
 <!-- Text block under image -->
 <div style="max-width:800px; margin: 0 auto; text-align:left;">
-  <p><strong>VERTHY</strong> offers expertise in soil, ecology, and genetics.</p>
+ <p><strong>VERTHY</strong> provides expertise in soil consultancy, ecological remediation, and climate-smart agriculture. 
+With us, you can rely on integrated soil analyses and advice for the sustainable restoration of contaminated sites. 
+We also offer specialist knowledge in plant and microbial genetics for agricultural applications (see <em>VERTHY AG</em>). 
+Our work combines high-quality soil consultancy with innovative genetic analyses and monitoring.</p>
 
-  <p>With us you can rely on:</p>
-  <ul>
-    <li><strong>Integrated soil analyses and advice</strong> for ecological site restoration.</li>
-    <li><strong>Genetic analyses</strong> of plants and microbes for sustainable agriculture.</li>
-    <li><strong>Support from lab to field:</strong> from DNA studies and pilot tests to monitoring full-scale projects.</li>
-  </ul>
+<p>We support you throughout the process — from initial feasibility tests to field pilots and full-scale implementation. 
+In this way, we translate science into practical solutions: from DNA to field trials, with the aim of creating cleaner soils and more resilient crops.</p>
 
-  <p>Our mission is to turn science into practical tools for cleaner soils and resilient crops.</p>
-
-  <p><em>Click on the icons below to learn more about our projects and product portfolio.</em></p>
-</div>
+<p>Click the buttons below to learn more about our projects and products, or choose “Who we are” to get to know our team.</p>
 
 <!-- "Learn more about us" button -->
 <div class="center" style="margin: 2rem 0;">
