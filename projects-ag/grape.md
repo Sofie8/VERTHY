@@ -65,7 +65,7 @@ permalink: /projects-ag/mildew-grape/
         <!-- Results figure -->
         <div style="text-align:center; margin:1rem 0 0;">
           {% include figure.html
-             image="/images/me1.png"
+             image="/images/me1.jpg"
              caption="Collection of leaf samples for DNA-extraction and sequencing (Sep 2025)."
              style="display:block; margin:0 auto; max-width:95%; border-radius:10px;"
           %}
