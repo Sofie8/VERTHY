@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PFAS Phytoremediation
-subtitle: VERTHY | June – Aug 2025 | Beveren-Kruibeke-Zwijndrecht | Phytoremediation
+subtitle: VERTHY | June – Aug 2025 | Beveren-Kruibeke | Phytoremediation
 summary: "Plant–microbe strategies to reduce the spread of PFAS in soils."
 hero: /images/hemp.jpg
 permalink: /projects/pfas-phytoremediation/
@@ -14,12 +14,13 @@ permalink: /projects/pfas-phytoremediation/
 
   <div class="project-body">
     <h1 class="project-title">{{ page.title }}</h1>
-    <p class="project-subtitle">Plant–microbe strategies to clean soils and safeguard crops</p>
 
-    <!-- Meta subtitle (smaller, same style as subtitle above) -->
-    <p class="project-meta">
-      VERTHY | June – Aug 2025 | Beveren-Kruibeke-Zwijndrecht | Phytoremediation
-    </p>
+    <!-- Subtitle -->
+    {% if page.subtitle %}
+      <p class="project-meta">{{ page.subtitle }}</p>
+    {% endif %}
+
+    <p class="project-subtitle">Plant–microbe strategies to clean soils and safeguard crops</p>
 
     <div class="pill-row">
       <span class="pill">PFAS</span>
@@ -50,23 +51,23 @@ permalink: /projects/pfas-phytoremediation/
       <div>
         <h3>Outcomes</h3>
         <ul>
-          <li><strong>4 to 95 % reductions</strong> in PFAS concentrations in the top soil.</li>
+          <li><strong>4–95% reductions</strong> in PFAS concentrations in the top soil.</li>
           <li><strong>Reduced PFAS spread from topsoil</strong> through stabilization by 3 million hemp plants.</li>
           <li>A <strong>clear scale-up plan</strong> shown with successful field implementation.</li>
         </ul>
 
-        <!-- Results figure (smaller size) -->
+        <!-- Results figure -->
         <div style="text-align:center; margin:1rem 0 0;">
           {% include figure.html
              image="/images/ZABRA1.png"
              caption="Example results: PFAS reduction and limiting of further spread after phytoremediation pilot with industrial hemp."
-             style="display:block; margin:0 auto; max-width:45%; border-radius:10px;"
+             style="display:block; margin:0 auto; max-width:300px; border-radius:10px;"
           %}
         </div>
 
         <p style="margin-top:0.8rem;">
-          This project ties desktop work with practical field testing to make contaminated soils cleaner and safer, supporting sustainable land use, hand in hand
-          with site redevelopment and economic valorization.
+          This project ties desktop work with practical field testing to make contaminated soils cleaner and safer, 
+          supporting sustainable land use, hand in hand with site redevelopment and economic valorization.
         </p>
       </div>
     </div>
@@ -80,7 +81,7 @@ permalink: /projects/pfas-phytoremediation/
 
 <style>
 .project-card{
-  max-width: 980px; margin: 0 auto 2.5rem; background:#fff;
+  max-width: 80px; margin: 0 auto 2.5rem; background:#fff;
   border:1px solid #e5e7eb; border-radius:16px; overflow:hidden;
   box-shadow: 0 6px 24px rgba(0,0,0,.06);
 }
@@ -92,8 +93,11 @@ permalink: /projects/pfas-phytoremediation/
 }
 .project-body{ padding: 1.25rem 1.5rem 1.75rem; }
 .project-title{ margin: .2rem 0 0; font-size: 1.9rem; }
-.project-subtitle{ color:#64748b; margin: .25rem 0 .25rem; }
-.project-meta{ color:#64748b; font-size:0.95rem; margin:0 0 1.25rem; }
+
+/* Subtitle style */
+.project-meta{ color:#64748b; font-size:0.95rem; margin:0.25rem 0 1rem; }
+
+.project-subtitle{ color:#475569; margin: .25rem 0 1rem; font-size:1.1rem; }
 
 .pill-row{ display:flex; flex-wrap:wrap; gap:.5rem; margin-bottom:1.25rem; }
 .pill{
@@ -102,9 +106,6 @@ permalink: /projects/pfas-phytoremediation/
 }
 
 .two-col{ display:grid; grid-template-columns: 1fr; gap:1.25rem; }
-.two-col h3{ margin:.5rem 0 .35rem; }
-.two-col p{ margin:.25rem 0 .5rem; }
-.two-col ul{ margin:.25rem 0 .5rem 1rem; }
 @media (min-width: 860px){
   .two-col{ grid-template-columns: 1fr 1fr; gap:1.5rem 2rem; }
 }
