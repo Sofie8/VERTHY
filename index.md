@@ -19,6 +19,20 @@ layout: default
   </ul>
 
   <p>Our mission is to turn science into practical tools for cleaner soils and resilient crops.</p>
+
+  <p><em>Click on the icons below to learn more about our projects and product portfolio.</em></p>
+</div>
+
+<!-- "Learn more about us" button -->
+<div class="center" style="margin: 2rem 0;">
+  {% include button.html
+    link="about"
+    title="Who we are"
+    text="Learn more about us"
+    icon="fas fa-arrow-right"
+    flip=true
+    style="button"
+  %}
 </div>
 
 <!-- Logos side by side as big buttons -->
@@ -42,12 +56,11 @@ layout: default
 }
 
 .verthy-card img {
-  max-width:300px; /* Bigger logos */
+  max-width:300px;
   height:auto;
   transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
-/* Hover effect */
 .verthy-card:hover img {
   transform: translateY(-8px);
   box-shadow: 0 8px 20px rgba(0,0,0,0.15);
