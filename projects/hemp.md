@@ -1,8 +1,9 @@
 ---
 layout: page
 title: PFAS Phytoremediation
-subtitle: VERTHY | June – Aug 2025 | Beveren-Kruibeke | Phytoremediation
-summary: "Plant–microbe strategies to reduce the spread of PFAS in soils."
+summary: |
+  by VERTHY | June -AUG 2025 | Phytoremediation | Beveren-Kruibeke-Zwijndrecht
+  Plant–microbe strategies to reduce the spread of PFAS in soils.
 hero: /images/hemp.jpg
 permalink: /projects/pfas-phytoremediation/
 ---
@@ -32,13 +33,13 @@ permalink: /projects/pfas-phytoremediation/
       <div>
         <h3>Overview</h3>
         <p>
-          At VERTHY we are located in the middle of a PFAS risk area caused by past emissions from firefighting activities and industry.
-          At the same time, we are on the border of nature and agriculture, where a project developer approached us to help ensure that background PFAS
-          concentrations are not further increasing rather aiming to actively reduce them. This unique region, surrounded by nature, agriculture, and industry,
-          offers both challenges and opportunities to integrate these seemingly dual objectives of expanding building projects but ensuring a healthy living
-          environment. Using nature-based solutions, like <strong>phytoremediation</strong>, we aim to mitigate pollution risks while simultaneously enhancing
-          biodiversity within region. In this way, remediation and ecological management reinforce one another, while still allowing space for redevelopment and
-          the entrepreneurial ambitions of the project developer.
+          This 3-hectare site, owned by a project developer, lies at the heart of a PFAS risk area due to its proximity to former firefighting training grounds
+          and nearby industrial activities, which have caused PFOS and PFOA contamination in both the topsoil and groundwater. At the same time, we are on the
+          border of nature and agricultural land. This unique region, surrounded by nature, agriculture, and industry, offers both challenges and opportunities to 
+          integrate these seemingly dual objectives of expanding economic activities and ensuring a healthy living environment. Using nature-based solutions, like
+          <strong>phytoremediation</strong>, we aim to mitigate pollution risks of further PFAS spreading while simultaneously enhancing biodiversity within the
+          region. In this way, remediation and ecological management reinforce one another, while still allowing space for redevelopment and the economic,
+          entrepreneurial ambitions of the project developer.
         </p>
 
         <h3>What we did</h3>
