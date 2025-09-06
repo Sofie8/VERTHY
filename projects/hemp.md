@@ -86,7 +86,7 @@ permalink: /projects/pfas-phytoremediation/
   box-shadow: 0 6px 24px rgba(0,0,0,.06);
 }
 .project-hero img{
-  width:100%; height: 100px; object-fit: cover; object-position: center; display:block;
+  width:100%; height: 340px; object-fit: cover; object-position: center; display:block;
 }
 @media (min-width: 1024px){
   .project-hero img{ height: 420px; }
