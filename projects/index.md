@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-leaf" %} VERTHY ENVIRONMENT
 
 At VERTHY ENVIRONMENT we work on ecological remediation and soil improvement by combining plant, microbe and data-driven approaches.  
-Below you’ll find an overview of our main project lines.
+Below you’ll find an overview of our main project lines, core services and featured use-cases.
 
 ## Projects at a glance
 
