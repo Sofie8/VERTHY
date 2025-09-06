@@ -30,13 +30,18 @@ permalink: /projects/pfas-phytoremediation/
       <div>
         <h3>Overview</h3>
         <p>
-          At VERTHY we explore <strong>plant–microbe-soil strategies</strong> to lower PFAS levels in soils, crops and reduce human exposure.
-          We combine ecological know-how with molecular tools to design effective remediation pathways.
+          At VERTHY we are located in the middle of a PFAS risk area caused by past emissions from firefighting activities and industry.
+          At the same time, we are on the border of nature and agriculture, where a project developer approached us to help ensure that background PFAS
+          concentrations are not further increasing rather aiming to actively reduce them. This unique region, surrounded by nature, agriculture, and industry,
+          offers both challenges and opportunities to integrate these seemingly dual objectives of expanding building projects but ensuring a healthy living
+          environment. Using nature-based solutions, like <strong>phytoremediation</strong>, we aim to mitigate pollution risks while simultaneously enhancing
+          biodiversity within region. In this way, remediation and ecological management reinforce one another, while still allowing space for redevelopment and
+          the entrepreneurial ambitions of the project developer.
         </p>
 
         <h3>What we did</h3>
         <ul>
-          <li>Screened <strong>plant genotypes</strong>, Collected <strong>soil and plant samples</strong>.</li>
+          <li>Screened <strong>hemp genotypes for fast growth and root development</strong>, Collected <strong>soil and plant samples</strong>.</li>
           <li>Monitored responses using <strong>PFAS soil analyses</strong>, and <strong>PFAS plant analyses</strong>.</li>
         </ul>
       </div>
