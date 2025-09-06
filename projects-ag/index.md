@@ -1,5 +1,5 @@
 ---
-title: VERTHY AG Projects
+title: AG Projects
 nav:
   order: 3
   tooltip: Our agricultural projects
