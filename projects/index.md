@@ -5,7 +5,7 @@ nav:
   tooltip: Our environmental projects
 ---
 
-# {% include icon.html icon="fa-solid fa-leaf" %} Projects
+# {% include icon.html icon="fa-solid fa-leaf" %} Environmental Projects
 
 At VERTHY ENVIRONMENT we work on ecological remediation and soil improvement by combining plant, microbe and data-driven approaches.  
 Below you’ll find an overview of our main project lines.
