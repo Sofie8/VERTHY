@@ -2,7 +2,7 @@
 layout: page
 title: Upscaling bacterial inocula for remediation
 summary: |
-  by VERTHY | July, 18 2025 | Phytoremediation | Melsbroek
+  by VERTHY | July, 18 2025 | Phytoremediation | Melsbroek<br>
   Upscaling bacterial inocula for kerosene groundwater remediation
 hero: /images/inoc.jpg
 permalink: /projects/upscaling/
