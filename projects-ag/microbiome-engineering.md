@@ -2,7 +2,7 @@
 layout: page
 title: Microbiome Engineering for Sustainable Agriculture
 summary: "From genome mining to field pilots — microbes as allies for crops."
-hero: /images/Project.jpg
+hero: /images/Project.png
 permalink: /projects-ag/microbiome-engineering/
 ---
 
