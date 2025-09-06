@@ -41,9 +41,9 @@ permalink: /projects-ag/mildew-grape/
       <div>
         <h3>Monitoring & verification</h3>
         <p>
-          We screen for **powdery mildew resistance genes** in grapevine collections.
+          We screen for powdery mildew resistance genes in grapevine collections.
           By combining and stacking multiple resistance loci, we aim to achieve
-          **durable, long-term protection** against mildew in cold-climate viticulture.
+          durable, long-term protection against mildew in cold-climate viticulture.
         </p>
 
         <h3>Outcomes</h3>
