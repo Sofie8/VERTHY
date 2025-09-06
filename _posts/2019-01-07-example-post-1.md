@@ -1,5 +1,5 @@
 ---
-title: Example post 1
+title: News item coming soon
 author: sarah-johnson
 tags:
   - biology
@@ -7,4 +7,4 @@ tags:
   - big data
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Coming soon, stay tuned!
