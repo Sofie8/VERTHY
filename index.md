@@ -37,13 +37,13 @@ layout: default
 
 <!-- Logos side by side as big buttons -->
 <div class="verthy-buttons">
-  <a href="{{ '/env/' | relative_url }}" class="verthy-card">
-    <img src="{{ '/images/VERTHY_ENV_ENG.png' | relative_url }}" alt="VERTHY ENV">
-  </a>
+<a href="{{ '/projects/' | relative_url }}" class="verthy-card">
+  <img src="{{ '/images/VERTHY_ENV_ENG.png' | relative_url }}" alt="VERTHY ENV">
+</a>
 
-  <a href="{{ '/ag/' | relative_url }}" class="verthy-card">
-    <img src="{{ '/images/VERTHY_AG_ENG.png' | relative_url }}" alt="VERTHY AG">
-  </a>
+<a href="{{ '/projects-ag/' | relative_url }}" class="verthy-card">
+  <img src="{{ '/images/VERTHY_AG_ENG.png' | relative_url }}" alt="VERTHY AG">
+</a>
 </div>
 
 <style>
