@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Upscaling bacterial inocula for remediation
-subtitle: VERTHY | 2025 | Melsbroek | Plant–microbe | Phytoremediation
-summary: "From lab to field — upscaling and delivering of microbes as allies for plants."
+summary: |
+  by VERTHY | July, 18 2025 | Phytoremediation | Melsbroek
+  Upscaling bacterial inocula for kerosene groundwater remediation
 hero: /images/inoc.jpg
 permalink: /projects/upscaling/
 ---
@@ -33,10 +34,10 @@ permalink: /projects/upscaling/
       <div>
         <h3>Overview</h3>
         <p>
-          Soil, rhizospheric and endophytic bacteria can boost pollutant degradation.
-          We identify, validate, and scale microbial functions that improve pollutant detoxification.
-          By enhancing their expression, we accelerate phytoremediation and expand nature’s own detoxification capacity.
-          For this project, we upscaled an oil- and PAH-degrading bacterial inoculum to tackle a kerosene oil spill,
+          Certain soil, rhizospheric and endophytic bacteria can boost pollutant degradation.
+          We identify, validate, and scale microbial strains and their functions that improve pollutant detoxification.
+          By enhancing their gene expression, we accelerate phytoremediation and expand nature’s own detoxification capacity.
+          For this project, we upscaled an oil- and PAH-degrading bacterial inoculum to tackle a kerosene spill,
           demonstrating how targeted microbial consortia can boost both remediation efficiency and plant resilience. 
         </p>
 
@@ -81,7 +82,7 @@ permalink: /projects/upscaling/
     <!-- Learn more reference -->
     <div style="text-align:center; margin-top:2rem; font-size:0.9rem; color:#64748b;">
       Would you like to learn more? Visit 
-      <a href="https://www.frontiersin.org/journals/microbiology" target="_blank">Frontiers in Microbiology</a>.
+      <a href="https://pubmed.ncbi.nlm.nih.gov/31212674/" target="_blank">MDPI-Genes</a>.
     </div>
   </div>
 </div>
