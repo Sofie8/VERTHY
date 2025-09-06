@@ -20,7 +20,7 @@ permalink: /projects/pfas-phytoremediation/
       <p class="project-meta">{{ page.subtitle }}</p>
     {% endif %}
 
-    <p class="project-subtitle">Plant–microbe strategies to clean soils and safeguard crops</p>
+    <p class="project-subtitle">Plant–microbe strategies to clean soils</p>
 
     <div class="pill-row">
       <span class="pill">PFAS</span>
@@ -61,7 +61,7 @@ permalink: /projects/pfas-phytoremediation/
           {% include figure.html
              image="/images/ZABRA1.png"
              caption="Example results: PFAS reduction and limiting of further spread after phytoremediation pilot with industrial hemp."
-             style="display:block; margin:0 auto; max-width:30px; border-radius:10px;"
+             style="display:block; margin:0 auto; max-width:0.3px; border-radius:10px;"
           %}
         </div>
 
