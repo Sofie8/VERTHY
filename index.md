@@ -21,18 +21,14 @@ layout: default
   <p>Our mission is to turn science into practical tools for cleaner soils and resilient crops.</p>
 </div>
 
-<!-- Buttons side by side -->
+<!-- Logos side by side as big buttons -->
 <div class="verthy-buttons">
   <a href="{{ '/env/' | relative_url }}" class="verthy-card">
     <img src="{{ '/images/VERTHY_ENV_ENG.png' | relative_url }}" alt="VERTHY ENV">
-    <div class="title">VERTHY ENV</div>
-    <div class="subtitle">Ecological remediation</div>
   </a>
 
   <a href="{{ '/ag/' | relative_url }}" class="verthy-card">
-    <img src="{{ '/images/verthy-ag.png' | relative_url }}" alt="VERTHY AG">
-    <div class="title">VERTHY_AG_ENG</div>
-    <div class="subtitle">Engineering Nature</div>
+    <img src="{{ '/images/VERTHY_AG_ENG.png' | relative_url }}" alt="VERTHY AG">
   </a>
 </div>
 
@@ -40,47 +36,45 @@ layout: default
 .verthy-buttons {
   display:flex;
   justify-content:center;
-  gap:40px;
-  margin:2rem 0;
+  gap:80px;
+  margin:3rem 0;
   flex-wrap:wrap;
 }
 
-.verthy-card {
-  text-align:center;
-  text-decoration:none;
-  transition: all 0.25s ease;
-}
-
 .verthy-card img {
-  max-width:200px;
+  max-width:300px; /* Bigger logos */
   height:auto;
-  transition: transform 0.25s ease;
-}
-
-.verthy-card .title {
-  font-weight:700;
-  font-size:1.2rem;
-  color:#2a9ea0;
-  margin-top:0.5rem;
-  transition: color 0.25s ease;
-}
-
-.verthy-card .subtitle {
-  color:#5a7f86;
-  transition: color 0.25s ease;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
 /* Hover effect */
 .verthy-card:hover img {
-  transform: translateY(-6px);
-}
-
-.verthy-card:hover .title {
-  color:#186c6d;
-}
-
-.verthy-card:hover .subtitle {
-  color:#2a9ea0;
+  transform: translateY(-8px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
 }
 </style>
 
+<!-- News section -->
+{% include section.html %}
+
+<h2 id="news">News</h2>
+<ul>
+  {% for post in site.posts limit:3 %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span style="color:#6b7280;"> — {{ post.date | date: "%d %b %Y" }}</span>
+      {% if post.excerpt %}<div>{{ post.excerpt }}</div>{% endif %}
+    </li>
+  {% endfor %}
+</ul>
+
+<div class="center" style="margin-top:1rem;">
+  {% include button.html
+    link="news"
+    title="All news"
+    text="See all updates"
+    icon="fas fa-newspaper"
+    flip=true
+    style="button"
+  %}
+</div>
