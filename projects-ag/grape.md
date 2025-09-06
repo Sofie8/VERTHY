@@ -140,6 +140,7 @@ permalink: /projects-ag/mildew-grape/
   width: 80%;
   height: auto;
   border-radius: 10px;
+  figure-align: center;
 }
 .results-figure figcaption {
   font-size: 0.85rem;
