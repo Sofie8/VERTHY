@@ -68,7 +68,7 @@ permalink: /projects/upscaling/
         <figure class="results-figure">
           <img src="{{ '/images/inoculant.png' | relative_url }}" alt="Upscaling workflow results">
           <figcaption>
-            Example workflow: from genome mining to field validation.
+            Upscaled kerosene-degrading bacterial inoculum ready for the field.
           </figcaption>
         </figure>
       </div>
@@ -137,7 +137,7 @@ permalink: /projects/upscaling/
 }
 .results-figure img {
   display: block;
-  width: 50%;
+  width: 80%;
   height: auto;
   border-radius: 10px;
 }
@@ -145,5 +145,6 @@ permalink: /projects/upscaling/
   font-size: 0.85rem;
   color: #64748b;
   margin-top: 0.4rem;
+  text-align: center;
 }
 </style>
