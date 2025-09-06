@@ -2,7 +2,7 @@
 layout: page
 title: Powdery Mildew Resistance in Cold Climate
 summary: Breeding and selecting cold-hardy vines with durable mildew resistance.
-hero: /images/ag-mildew.jpg   # add a suitable image
+hero: /images/me1.jpg   # add a suitable image
 permalink: /projects-ag/powdery-mildew/
 ---
 
