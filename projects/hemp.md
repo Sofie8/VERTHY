@@ -123,7 +123,7 @@ permalink: /projects/pfas-phytoremediation/
 /* Results figure styling */
 .results-figure {
   max-width: 320px;   /* smaller, keeps card layout clean */
-  margin: 1rem auto;
+  margin: 0 auto;
   border-radius: 10px;
   text-align: center;
 }
@@ -132,7 +132,6 @@ permalink: /projects/pfas-phytoremediation/
   width: 90%;
   height: auto;
   border-radius: 10px;
-  figure-align: center;
 }
 .results-figure figcaption {
   font-size: 0.85rem;
