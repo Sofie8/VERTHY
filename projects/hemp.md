@@ -59,7 +59,7 @@ permalink: /projects/pfas-phytoremediation/
           {% include figure.html
              image="/images/ZABRA1.png"
              caption="Example results: PFAS reduction and limiting of further spread after phytoremediation pilot with industrial hemp."
-             style="display:block; margin:0 auto; max-width:95%; border-radius:10px;"
+             style="display:block; margin:0 auto; max-width:15%; border-radius:10px;"
           %}
         </div>
 
