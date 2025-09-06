@@ -28,7 +28,7 @@ Through VERTHY, Sofie combines consultancy, remediation strategies, and genetic 
   <div style="flex: 1 1 278px; max-width: 278px; text-align: center;">
     <img src="/VERTHY/images/20250718_105058-zoomed.jpg" alt="Field and technical experts" style="width:100%; height:auto; border-radius:8px;">
     <h3>Field</h3>
-    <p>Our field team comprising engineers and agricultural entrepeneurs ensures that scientific advice is directly translated into effective on-site actions. From preparing the soil and supporting microbial inoculation to guiding planting schemes and overseeing project implementation, they provide the practical expertise needed to turn strategies into measurable results. </p>
+    <p>Our field team comprising engineers and agricultural entrepeneurs ensures that phytoremediation-specific scientific advice is directly translated into effective on-site actions. From preparing the soil and neatly GPS-controlled dosing of soil additives to homogenously mixing of amendments under bulk soil, which is crucial for its functioning. Also managing the delivery and application of microbial inocula at scale (20 tons and more) using specialised equipment that adheres to codes of proper bacterial handling, including sterilisation and rinsing procedures. The team also delivers precision (hydro)seeding of bacteria-coated seed blents where needed, and guiding of planting schemes and maintenance (coppicing). In short, they provide valuable complementary and unique phytoremediation-specific practical expertise needed to turn strategies into quality, measurable results. </p>
   </div>
 
   <div style="flex: 1 1 268px; max-width: 268px; text-align: center;">
