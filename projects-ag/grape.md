@@ -2,7 +2,7 @@
 layout: page
 title: Downy mildew resistance in grape 
 summary: |
-  by VERTHY | 2025 | Viticulture | Borgloon
+  by VERTHY | 2025 | Viticulture | Borgloon<br>
   Cold-hardy vines with durable resistance: phenotyping, controlled inoculation, and marker-assisted screening.
 hero: /images/grape.jpg
 permalink: /projects-ag/mildew-grape/
