@@ -2,7 +2,7 @@
 layout: page
 title: PFAS Phytoremediation
 summary: Plant–microbe strategies to reduce PFAS in soils and crops.
-hero: /images/env-pfas.jpg   # <-- add a suitable banner image in /images
+hero: /images/hemp.jpg   # <-- add a suitable banner image in /images
 permalink: /projects/pfas-phytoremediation/
 ---
 
