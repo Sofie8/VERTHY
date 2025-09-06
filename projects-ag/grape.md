@@ -132,7 +132,7 @@ permalink: /projects-ag/mildew-grape/
 /* Results figure styling */
 .results-figure {
   max-width: 320px;   /* keeps figure small */
-  margin: 1rem auto;
+  margin: 0 auto;
   border-radius: 10px;
   text-align: center;
 }
@@ -141,7 +141,6 @@ permalink: /projects-ag/mildew-grape/
   width: 90%;
   height: auto;
   border-radius: 10px;
-  figure-align: center;
 }
 .results-figure figcaption {
   font-size: 0.85rem;
