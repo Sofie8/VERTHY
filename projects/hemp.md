@@ -2,7 +2,7 @@
 layout: page
 title: PFAS Phytoremediation
 summary: |
-  by VERTHY | June -AUG 2025 | Phytoremediation | Beveren-Kruibeke-Zwijndrecht
+  by VERTHY | June -AUG 2025 | Phytoremediation | Beveren-Kruibeke-Zwijndrecht<br>
   Plant–microbe strategies to reduce the spread of PFAS in soils.
 hero: /images/hemp.jpg
 permalink: /projects/pfas-phytoremediation/
