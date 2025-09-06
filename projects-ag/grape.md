@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Genetic screening for mildew resistance in grape 
+title: Downy mildew resistance in grape 
 summary: |
   by VERTHY | 2025 | Viticulture | Borgloon
   Cold-hardy vines with durable resistance: phenotyping, controlled inoculation, and marker-assisted screening.
@@ -10,7 +10,7 @@ permalink: /projects-ag/mildew-grape/
 
 <div class="project-card">
   <div class="project-hero">
-    <img src="{{ page.hero | default: '/images/minion.jpg' | relative_url }}" alt="Powdery mildew resistance in grape">
+    <img src="{{ page.hero | default: '/images/minion.jpg' | relative_url }}" alt="Downy mildew resistance in grape">
   </div>
 
   <div class="project-body">
