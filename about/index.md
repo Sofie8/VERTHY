@@ -7,17 +7,17 @@ nav:
 
 # About
 
-I’m Sofie Thijs, founder of VERTHY, and an enthusiastic, forward-thinking biologist and data analyst. I earned a BSc in Biology and an MSc in Environmental & Health Sciences. During my PhD (2015), I isolated the soil bacterium *Raoultella ornithinolytica* strain TNT and discovered its **N-ethylmaleimide reductase (NEM)** gene. I described the genome, overexpressed the gene, purified the protein, and demonstrated that **NEM has nitroreductase activity toward TNT** with kinetics comparable to the PETN-reductase from *Enterobacter cloacae*.
+My name is **Sofie Thijs**, founder of VERTHY. From an early age I have been fascinated by nature and the way our environment shapes our lives. That curiosity grew into a career in soil, ecology and genetics, with one clear goal: to contribute to a healthier and more sustainable environment.  
 
-As a postdoc in the Neufeld Lab (University of Waterloo, Canada), I co-developed **GORDIAN**—a density-gradient workflow to recover high-quality draft genomes from complex metagenomes—while deepening my bioinformatics expertise.
+With a background in biology and environmental sciences, I have built up experience in soil analysis, ecological remediation, and genetic research on plants and microbes. Over the years I have learned how to connect laboratory research with practical applications in the field. Whether it is restoring contaminated land, testing microbial products, or supporting farmers with crop improvement, my work is always about turning science into solutions.  
 
-Now, as a postdoc at UHasselt, I lead applied microbiome projects that connect genomics, metabolomics, and field trials. I work on **PFAS phytoremediation (PLANTS)** and a **microbial toolbox for pollution remediation (MIBIREM)**. I develop and co-develop analysis tools (e.g., the **MANANAS** R-shiny pipeline), and test **seed treatments**, **foliar applications** of microbes/metabolites, and **natural soil minerals** to modulate pollutant uptake.
+At VERTHY, I bring together expertise in consultancy, ecological restoration, and advanced genetic analyses. What drives me is the challenge of making complex data useful and translating it into clear, practical advice. I believe that by combining scientific knowledge with hands-on experience, we can create tools that make soils cleaner and agriculture more resilient.  
 
 {% include section.html %}
 
-
 # Our team
-Our team brings together national and international expertise to perform **in situ applications**, scale up **bacterial consortia**, and develop tailored **inoculation strategies**.  Together, we bridge lab innovation with field deployment for sustainable remediation solutions.  
+
+Our team brings together national and international expertise to design **in situ applications**, scale up microbial consortia, and develop tailor-made genetics screenings assays. Together, we bridge laboratory innovation with field deployment to create sustainable remediation solutions.  
 
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
 
@@ -26,54 +26,27 @@ Our team brings together national and international expertise to perform **in si
   </div>
 
   <div style="flex: 1 1 200px; max-width: 200px; text-align: center;">
-    <img src="/VERTHY/images/reactor.png" alt="Team member 3" style="width:100%; height:auto; border-radius:8px;">
+    <img src="/VERTHY/images/reactor.png" alt="Team member 2" style="width:100%; height:auto; border-radius:8px;">
   </div>
 
   <div style="flex: 1 1 270px; max-width: 270px; text-align: center;">
-    <img src="/VERTHY/images/antarctic.jpg" alt="Team member 4" style="width:100%; height:auto; border-radius:8px;">
+    <img src="/VERTHY/images/antarctic.jpg" alt="Team member 3" style="width:100%; height:auto; border-radius:8px;">
   </div>
 
 </div>
-
-{% include section.html %}
-
-## What we do
-
-We provide high-quality consultancy and hands-on support in **phytoremediation** and **microbiome-enabled environmental solutions**—from feasibility to field validation and success-control monitoring. Our work follows the **Code of Good Practice for Phytoremediation** and serves soil-remediation specialists, environmental consultants, regulators, municipalities, and agricultural professionals.
-
-<div style="text-align:center; margin:0; padding:0;">
-  <img src="/VERTHY/images/Project.png" 
-       alt="Project" 
-       style="max-width:600px; width:100%; height:auto; margin:0; display:block;">
-</div>
-
-### Who we work with
-- Soil & site remediation teams (public and private)  
-- Environmental consultancies & engineering firms  
-- Biotech companies  
-- Regulatory bodies & municipalities  
-- Agri-food companies & growers seeking climate-smart, nature-based solutions  
-- Grape breeders  
-- R&D teams needing microbiome expertise, data analysis, or pilot support
-
-### Core services
-- Phytoremediation feasibility assessments  
-- Site diagnostics & sampling plans  
-- Molecular monitoring (qPCR, amplicon/shotgun, metabolomics)  
-- Pilot design: plant–microbe interventions  
-- Bacterial inoculum development  
-- Success-control monitoring  
-- Downy mildew resistance marker screening (grape)
-
-*The best way to understand our work is to browse example projects.*
-
-{% include button.html link="projects" text="Our projects" icon="fas fa-arrow-right" flip=true style="button" %}
 
 {% include section.html %}
 
 ## Contact
 
-**Request support** — start here to scope a project and work with us.
+Interested in working with us? Feel free to get in touch.  
 
-{% include button.html link="https://github.com/CU-DBMI/set-intake" text="Request Support" icon="fas fa-handshake-angle" style="button" %}
+{% include button.html 
+   link="/contact" 
+   text="Contact us" 
+   icon="fas fa-envelope" 
+   style="button" %}
+
+
+
 
