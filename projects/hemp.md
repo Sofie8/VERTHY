@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PFAS Phytoremediation
-summary: "Plant–microbe strategies to reduce PFAS in soils and groundwater."
+summary: "Plant–microbe-amendment strategies to reduce the spread of PFAS in soils and groundwater."
 hero: /images/hemp.jpg
 permalink: /projects/pfas-phytoremediation/
 ---
