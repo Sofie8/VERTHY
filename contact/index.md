@@ -26,10 +26,10 @@ Questions, collaborations, or project requests? We’d love to hear from you.
 
 {% capture col1 %}
 
-{%
-  include figure.html
-  image="images/photo1.jpg"
-  caption=""
+{% include figure.html
+   image="images/photo1.jpg"
+   caption=""
+   style="display:block; margin: 0 auto; max-width: 90%; border-radius:8px;"
 %}
 
 {% endcapture %}
