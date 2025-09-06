@@ -18,7 +18,7 @@ Questions, collaborations, or project requests? We’d love to hear from you.
 {%
   include button.html
   type="phone"
-  text="(0032) 498534052"
+  text="(0032) 498 53 40 52"
   link="+32-498-53-40-52"
 %}
 
