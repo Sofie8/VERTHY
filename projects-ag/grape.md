@@ -8,7 +8,7 @@ permalink: /projects-ag/mildew-grape/
 
 <div class="project-card">
   <div class="project-hero">
-    <img src="{{ page.hero | default: '/images/ag-mildew.jpg' | relative_url }}" alt="Powdery mildew resistance in grape">
+    <img src="{{ page.hero | default: '/images/minion.jpg' | relative_url }}" alt="Powdery mildew resistance in grape">
   </div>
 
   <div class="project-body">
