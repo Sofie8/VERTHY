@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: ENV Projects
 nav:
   order: 2
   tooltip: Our environmental projects
@@ -7,13 +7,16 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-leaf" %} Projects
 
-At VERTHY ENV we work on ecological remediation and soil improvement by combining plant, microbe and data-driven approaches.  
+At VERTHY ENVIRONMENT we work on ecological remediation and soil improvement by combining plant, microbe and data-driven approaches.  
 Below you’ll find an overview of our main project lines.
 
 ## Projects at a glance
 
+- **Phytoremediation feasibility studies and success control monitoring**  
+  We assess the degradation potential of microbial communities on site through eDNA sampling. This includes detecting the presence and activity of degradation genes before and after inoculation using next-generation sequencing techniques, and tracking the fate of introduced strains to ensure they establish and contribute to pollutant breakdown.
+
 - **PFAS phytoremediation**  
-  Plant–microbe strategies to lower PFAS in soils and crops: screening plant genotypes, microbial inoculants/metabolites, and mineral amendments to reduce uptake or enhance degradation. Monitoring via soil analytics, plant-uptake, nutrient and soil type analyses, metagenomics, and metabolomics.
+  Phytoextraction, phytostabilisation and phytohydraulics strategies to reduce the risk of PFAS spreading in soils and groundwater: screening plant species and genotypes, mineral amendments to reduce or enhance uptake, microbial inoculants/metabolites. Monitoring via soil biology, analytics, plant-uptake, nutrient and soil type analyses, metagenomics, and metabolomics.
 
 - **Data & monitoring pipelines**  
   **MANANAS** (R-shiny) for amplicon/shotgun analysis, custom qPCR assays, and reproducible reporting dashboards that link **genomes → traits → field performance**.
