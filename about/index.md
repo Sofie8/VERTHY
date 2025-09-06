@@ -12,7 +12,7 @@ Below, we would like to introduce ourselves.
 
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
 
-  <div style="flex: 1 1 310px; max-width: 310px; text-align: center;">
+  <div style="flex: 1 1 312px; max-width: 312px; text-align: center;">
     <img src="/VERTHY/images/grass.jpg" alt="dr. Sofie Thijs" style="width:100%; height:auto; border-radius:8px;">
     <h3>Founder</h3>
     <p>Sofie is the founder of VERTHY and an enthusiastic, forward-thinking microbiologist. She earned her bachelor’s degree in Biology from Hasselt University and went on to complete a PhD focused on remediating sites polluted with explosives. During her postdoctoral research, she deepened her expertise in the plant–microbiome interaction, exploring how microbial communities can be leveraged for both environmental remediation and sustainable agriculture.
