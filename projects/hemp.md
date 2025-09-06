@@ -61,7 +61,7 @@ permalink: /projects/pfas-phytoremediation/
         <figure class="results-figure">
           <img src="{{ '/images/ZABRA1.png' | relative_url }}" alt="PFAS results">
           <figcaption>
-            Example results: PFAS reduction and limiting of further spread after phytoremediation pilot with industrial hemp.
+            Remediation and ecological site restoration at a PFAS risk area with industrial hemp.
           </figcaption>
         </figure>
 
@@ -137,5 +137,6 @@ permalink: /projects/pfas-phytoremediation/
   font-size: 0.85rem;
   color: #64748b;
   margin-top: 0.4rem;
+  text-align: center;
 }
 </style>
