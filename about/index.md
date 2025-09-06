@@ -27,7 +27,7 @@ Through VERTHY, Sofie combines consultancy, remediation strategies, and genetic 
 
   <div style="flex: 1 1 280px; max-width: 280px; text-align: center;">
     <img src="/VERTHY/images/20250718_105058-zoomed.jpg" alt="Field and technical experts" style="width:100%; height:auto; border-radius:8px;">
-    <h3>Field Team</h3>
+    <h3>Field Engineers</h3>
     <p>Our field team comprising engineers and agricultural entrepeneurs ensures that scientific advice is directly translated into effective on-site actions. From preparing the soil and supporting microbial inoculation to guiding planting schemes and overseeing project implementation, they provide the practical expertise needed to turn strategies into measurable results. </p>
   </div>
 
