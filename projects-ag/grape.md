@@ -4,13 +4,13 @@ title: Downy mildew resistance in grape
 summary: |
   by VERTHY | 2025 | Viticulture | Borgloon
   Cold-hardy vines with durable resistance: phenotyping, controlled inoculation, and marker-assisted screening.
-hero: /images/minion.jpg
+hero: /images/grape.jpg
 permalink: /projects-ag/mildew-grape/
 ---
 
 <div class="project-card">
   <div class="project-hero">
-    <img src="{{ page.hero | default: '/images/minion.jpg' | relative_url }}" alt="Downy mildew resistance in grape">
+    <img src="{{ page.hero | default: '/images/grape.jpg' | relative_url }}" alt="Downy mildew resistance in grape">
   </div>
 
   <div class="project-body">
@@ -45,7 +45,7 @@ permalink: /projects-ag/mildew-grape/
         <ul>
           <li>Field phenotyping of grape collections in cold climates</li>
           <li>Controlled inoculations to benchmark resistance</li>
-          <li>Marker-assisted screening of resistance loci using Next-gen DNA-sequencing technologies</li>
+          <li>Marker-assisted screening of resistance loci using rhAmpSeq marker panel</li>
         </ul>
       </div>
 
@@ -66,9 +66,9 @@ permalink: /projects-ag/mildew-grape/
 
         <!-- Results figure -->
         <figure class="results-figure">
-          <img src="{{ '/images/hoenshof.jpg' | relative_url }}" alt="Mildew resistance grape project results">
+          <img src="{{ '/images/minion.jpg' | relative_url }}" alt="Mildew resistance grape project results">
           <figcaption>
-            Collection of leaf samples for DNA-extraction and sequencing (Sep 2025).
+            Minion DNA-sequencing device.
           </figcaption>
         </figure>
       </div>
