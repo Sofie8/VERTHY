@@ -19,15 +19,15 @@ Below, we would like to introduce ourselves.
   </div>
 
   <div style="flex: 1 1 270px; max-width: 270px; text-align: center;">
-    <img src="/VERTHY/images/ewout.png" alt="Field and Technical Experts" style="width:100%; height:auto; border-radius:8px;">
+    <img src="/VERTHY/images/20250718_105058-zoomed.jpg" alt="Field and Technical Experts" style="width:100%; height:auto; border-radius:8px;">
     <h3>Field & Technical Experts</h3>
     <p>Team field ensures that advice can be translated directly into practical actions on site: Supporting inoculation, site preparation, and project implementation. </p>
   </div>
 
   <div style="flex: 1 1 270px; max-width: 270px; text-align: center;">
-    <img src="/VERTHY/images/reactor.png" alt="dr. Francisco Massot" style="width:100%; height:auto; border-radius:8px;">
+    <img src="/VERTHY/images/reactor.png" alt="Upscaling microbial inoculants" style="width:100%; height:auto; border-radius:8px;">
     <h3>Francisco Massot</h3>
-    <p>Francisco is from Argentina and focuses on upscaling microbial consortia for real-world applications. Together we have done fieldwork in Antarctica to learn about the ecology of cold-tolerant petroleum hydrocarbon degradating bacteria as an avenue to spur oil biodegradation in European climate in wintertime. We work together to bring innovative microbiome approaches to challenging environments.</p>
+    <p>Francisco Massot is the team expert in upscaling microbial consortia for real-world applications. Together we have done fieldwork in Antarctica to learn about the ecology of cold-tolerant petroleum hydrocarbon degradating bacteria as an avenue to spur oil biodegradation in European climate in wintertime. We work together to bring innovative microbiome approaches to challenging environments.</p>
   </div>
 
 </div>
