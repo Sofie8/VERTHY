@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Genetic screening for mildew resistance in grape
-subtitle: by VERTHY | 2025 | Viticulture | Borgloon
+subtitle: VERTHY | 2025 | Viticulture | Borgloon
 summary: "Cold-hardy vines with durable resistance: phenotyping, controlled inoculation, and marker-assisted screening."
 hero: /images/minion.jpg
 permalink: /projects-ag/mildew-grape/
@@ -14,12 +14,13 @@ permalink: /projects-ag/mildew-grape/
 
   <div class="project-body">
     <h1 class="project-title">{{ page.title }}</h1>
-    <p class="project-subtitle">Breeding & selecting cold-hardy vines with durable resistance</p>
 
-    <!-- Meta subtitle -->
-    <p class="project-meta">
-      by VERTHY | 2025 | Viticulture
-    </p>
+    <!-- Subtitle -->
+    {% if page.subtitle %}
+      <p class="project-meta">{{ page.subtitle }}</p>
+    {% endif %}
+
+    <p class="project-subtitle">Breeding & selecting cold-hardy vines with durable resistance</p>
 
     <div class="pill-row">
       <span class="pill">Viticulture</span>
@@ -62,12 +63,12 @@ permalink: /projects-ag/mildew-grape/
           <li>Scale-up plan: nursery validation → grower pilots</li>
         </ul>
 
-        <!-- Results figure -->
+        <!-- Results figure (reduced size) -->
         <div style="text-align:center; margin:1rem 0 0;">
           {% include figure.html
              image="/images/me1.jpg"
              caption="Collection of leaf samples for DNA-extraction and sequencing (Sep 2025)."
-             style="display:block; margin:0 auto; max-width:95%; border-radius:10px;"
+             style="display:block; margin:0 auto; max-width:300px; border-radius:10px;"
           %}
         </div>
       </div>
@@ -100,8 +101,11 @@ permalink: /projects-ag/mildew-grape/
 }
 .project-body{ padding: 1.25rem 1.5rem 1.75rem; }
 .project-title{ margin: .2rem 0 0; font-size: 1.9rem; }
-.project-subtitle{ color:#64748b; margin: .25rem 0 .25rem; }
-.project-meta{ color:#94a3b8; font-size:0.9rem; margin:0 0 1.25rem; }
+
+/* Subtitle style */
+.project-meta{ color:#64748b; font-size:0.95rem; margin:0.25rem 0 1rem; }
+
+.project-subtitle{ color:#475569; margin: .25rem 0 1rem; font-size:1.1rem; }
 
 .pill-row{ display:flex; flex-wrap:wrap; gap:.5rem; margin-bottom:1.25rem; }
 .pill{
@@ -110,9 +114,6 @@ permalink: /projects-ag/mildew-grape/
 }
 
 .two-col{ display:grid; grid-template-columns: 1fr; gap:1.25rem; }
-.two-col h3{ margin:.5rem 0 .35rem; }
-.two-col p{ margin:.25rem 0 .5rem; }
-.two-col ul{ margin:.25rem 0 .5rem 1rem; }
 @media (min-width: 860px){
   .two-col{ grid-template-columns: 1fr 1fr; gap:1.5rem 2rem; }
 }
