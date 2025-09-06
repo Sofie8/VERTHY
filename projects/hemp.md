@@ -129,7 +129,7 @@ permalink: /projects/pfas-phytoremediation/
 }
 .results-figure img {
   display: block;
-  width: 60%;
+  width: 90%;
   height: auto;
   border-radius: 10px;
   figure-align: center;
