@@ -122,14 +122,14 @@ permalink: /projects/pfas-phytoremediation/
 
 /* Results figure styling */
 .results-figure {
-  max-width: 30px;   /* smaller, keeps card layout clean */
+  max-width: 320px;   /* smaller, keeps card layout clean */
   margin: 1rem auto;
   border-radius: 10px;
   text-align: center;
 }
 .results-figure img {
   display: block;
-  width: 10%;
+  width: 20%;
   height: auto;
   border-radius: 10px;
 }
