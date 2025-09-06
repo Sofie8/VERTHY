@@ -13,9 +13,9 @@ Below, we would like to introduce ourselves.
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
 
   <div style="flex: 1 1 350px; max-width: 350px; text-align: center;">
-    <img src="/VERTHY/images/grass.jpg" alt="Sofie Thijs" style="width:100%; height:auto; border-radius:8px;">
+    <img src="/VERTHY/images/grass.jpg" alt="dr. Sofie Thijs" style="width:100%; height:auto; border-radius:8px;">
     <h3>Sofie Thijs</h3>
-    <p>Founder of VERTHY. With a background in biology and environmental sciences, I combine consultancy, remediation strategies, and genetic analyses. I translate scientific insights into practical tools for soil quality and sustainable agriculture.</p>
+    <p>Hi, I am Sofie, founder of VERTHY and an enthusiastic and forward-thinking microbiologist. With a background in biology and environmental sciences, I combine consultancy, remediation strategies, and genetic analyses. I translate scientific insights into practical tools for soil quality and sustainable agriculture.</p>
   </div>
 
   <div style="flex: 1 1 270px; max-width: 270px; text-align: center;">
@@ -25,7 +25,7 @@ Below, we would like to introduce ourselves.
   </div>
 
   <div style="flex: 1 1 270px; max-width: 270px; text-align: center;">
-    <img src="/VERTHY/images/reactor.jpg" alt="Francisco Massot and International Projects" style="width:100%; height:auto; border-radius:8px;">
+    <img src="/VERTHY/images/reactor.jpg" alt="dr. Francisco Massot" style="width:100%; height:auto; border-radius:8px;">
     <h3>Francisco Massot & International Collaborations</h3>
     <p>Francisco focuses on upscaling microbial consortia for real-world applications. Together we have done fieldwork in Antarctica to learn about the ecology of cold-tolerant total petroleum hydrocarbon degradating bacteria as an avenue to spur oil biodegradation in wintertime. We work together to bring innovative microbiome approaches to challenging environments.</p>
   </div>
