@@ -46,6 +46,7 @@ permalink: /projects-ag/mildew-grape/
           <li>Field phenotyping of grape collections in cold climates</li>
           <li>Controlled inoculations to benchmark resistance</li>
           <li>Marker-assisted screening of resistance loci using rhAmpSeq marker panel</li>
+          <li>International collaboration with researchers from Cornell University (USDA) and vitisgen3 project</li>
         </ul>
       </div>
 
@@ -81,8 +82,8 @@ permalink: /projects-ag/mildew-grape/
 
     <!-- Learn more reference -->
     <div style="text-align:center; margin-top:2rem; font-size:0.9rem; color:#64748b;">
-      Would you like to learn more? Visit 
-      <a href="https://vitisgen3.umn.edu/" target="_blank">https://vitisgen3.umn.edu/</a>.
+      Interested to know more about the vitisgen3 project:
+      <a href="https://vitisgen3.umn.edu/" target="_blank">vitisgen3/</a>.
     </div>
   </div>
 </div>
@@ -137,7 +138,7 @@ permalink: /projects-ag/mildew-grape/
 }
 .results-figure img {
   display: block;
-  width: 80%;
+  width: 90%;
   height: auto;
   border-radius: 10px;
   figure-align: center;
