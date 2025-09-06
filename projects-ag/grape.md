@@ -66,7 +66,7 @@ permalink: /projects-ag/mildew-grape/
 
         <!-- Results figure -->
         <figure class="results-figure">
-          <img src="{{ '/images/me1.jpg' | relative_url }}" alt="Mildew resistance grape project results">
+          <img src="{{ '/images/hoenshof.jpg' | relative_url }}" alt="Mildew resistance grape project results">
           <figcaption>
             Collection of leaf samples for DNA-extraction and sequencing (Sep 2025).
           </figcaption>
@@ -137,7 +137,7 @@ permalink: /projects-ag/mildew-grape/
 }
 .results-figure img {
   display: block;
-  width: 50%;
+  width: 80%;
   height: auto;
   border-radius: 10px;
 }
@@ -145,5 +145,6 @@ permalink: /projects-ag/mildew-grape/
   font-size: 0.85rem;
   color: #64748b;
   margin-top: 0.4rem;
+  text-align: center;
 }
 </style>
