@@ -129,14 +129,14 @@ permalink: /projects-ag/mildew-grape/
 
 /* Results figure styling */
 .results-figure {
-  max-width: 320px;   /* keeps figure small */
+  max-width: 20px;   /* keeps figure small */
   margin: 1rem auto;
   border-radius: 10px;
   text-align: center;
 }
 .results-figure img {
   display: block;
-  width: 100%;
+  width: 10%;
   height: auto;
   border-radius: 10px;
 }
