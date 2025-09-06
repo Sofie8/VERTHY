@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PFAS Phytoremediation
-summary: "Plant–microbe strategies to reduce the spread of PFAS in soils and groundwater."
+summary: "Plant–microbe strategies to reduce the spread of PFAS in soils."
 hero: /images/hemp.jpg
 permalink: /projects/pfas-phytoremediation/
 ---
@@ -15,11 +15,14 @@ permalink: /projects/pfas-phytoremediation/
     <h1 class="project-title">{{ page.title }}</h1>
     <p class="project-subtitle">Plant–microbe strategies to clean soils and safeguard crops</p>
 
+    <!-- Meta subtitle -->
+    <p class="project-meta">
+      by VERTHY | June – Aug 2025 | Phytoremediation
+    </p>
+
     <div class="pill-row">
       <span class="pill">PFAS</span>
       <span class="pill">Phytoremediation</span>
-      <span class="pill">Microbial inoculants</span>
-      <span class="pill">qPCR & sequencing</span>
       <span class="pill">Scale-up</span>
     </div>
 
@@ -27,28 +30,38 @@ permalink: /projects/pfas-phytoremediation/
       <div>
         <h3>Overview</h3>
         <p>
-          At VERTHY we explore <strong>plant–microbe-soil additive strategies</strong> to lower PFAS levels in soils and groundwater.  
-          Our work combines ecological knowledge with advanced molecular tools to design effective remediation pathways.
+          At VERTHY we explore <strong>plant–microbe-soil strategies</strong> to lower PFAS levels in soils, crops and reduce human exposure.
+          We combine ecological know-how with molecular tools to design effective remediation pathways.
         </p>
 
-        <h3>What we do</h3>
+        <h3>What we did</h3>
         <ul>
-          <li>Screen <strong>plant genotypes</strong>, microbial <strong>inoculants</strong> and natural <strong>mineral amendments</strong>.</li>
-          <li>Monitor microbial and plant responses using <strong>qPCR</strong>, <strong>amplicon/shotgun sequencing</strong>, and <strong>metabolomics</strong>.</li>
+          <li>Screened <strong>plant genotypes</strong>, Collected <strong>soil and plant samples</strong>.</li>
+          <li>Monitored responses using <strong>PFAS soil analyses</strong>, and <strong>PFAS plant analyses</strong>.</li>
         </ul>
       </div>
 
       <div>
-        <h3>Expected outcomes</h3>
+        <h3>Outcomes</h3>
         <ul>
-          <li><strong>Reductions</strong> in soil and groundwater PFAS concentration.</li>
-          <li><strong>Enhanced groundwater plume control</strong> through optimized plant species choice and amendments.</li>
-          <li>A <strong>clear scale-up plan</strong> for field implementation.</li>
+          <li><strong> 4 to 95 % reductions</strong> in PFAS concentrations in the top soil.</li>
+          <li><strong>Reduced PFAS spread from topsoil</strong> through stabilization by 3 million hemp plants.</li>
+          <li>A <strong>Clear scale-up plan</strong> shown with succeful field implementation.</li>
         </ul>
 
-        <p>
-          This project brings together laboratory innovation and practical field testing, 
-          with the goal of making contaminated soils cleaner, safer and supporting sustainable land use.
+        <!-- Results figure -->
+        <div style="text-align:center; margin:1rem 0 0;">
+          {% include figure.html
+             image="/images/ZABRA1.png"
+             caption="Example results: PFAS reduction and limiting of further spread after phytoremediation pilot with industrial hemp."
+             style="display:block; margin:0 auto; max-width:95%; border-radius:10px;"
+          %}
+        </div>
+
+        <p style="margin-top:0.8rem;">
+          This project ties desktop work with practical field testing to make contaminated soils cleaner and safer, supporting sustainable land use, hand in hand
+          with site redevelopment and economic valorization.
+
         </p>
       </div>
     </div>
@@ -66,10 +79,16 @@ permalink: /projects/pfas-phytoremediation/
   border:1px solid #e5e7eb; border-radius:16px; overflow:hidden;
   box-shadow: 0 6px 24px rgba(0,0,0,.06);
 }
-.project-hero img{ width:100%; height: 320px; object-fit: cover; display:block; }
+.project-hero img{
+  width:100%; height: 340px; object-fit: cover; object-position: center; display:block;
+}
+@media (min-width: 1024px){
+  .project-hero img{ height: 420px; }
+}
 .project-body{ padding: 1.25rem 1.5rem 1.75rem; }
 .project-title{ margin: .2rem 0 0; font-size: 1.9rem; }
-.project-subtitle{ color:#64748b; margin: .25rem 0 1rem; }
+.project-subtitle{ color:#64748b; margin: .25rem 0 .25rem; }
+.project-meta{ color:#94a3b8; font-size:0.9rem; margin:0 0 1.25rem; }
 
 .pill-row{ display:flex; flex-wrap:wrap; gap:.5rem; margin-bottom:1.25rem; }
 .pill{
@@ -83,9 +102,16 @@ permalink: /projects/pfas-phytoremediation/
 .two-col ul{ margin:.25rem 0 .5rem 1rem; }
 @media (min-width: 860px){
   .two-col{ grid-template-columns: 1fr 1fr; gap:1.5rem 2rem; }
-  .project-hero img{ height: 380px; }
 }
 
 .cta-row{ display:flex; gap:.75rem; flex-wrap:wrap; margin-top:1.25rem; }
 .btn{
-  display:inline-flex; align-items
+  display:inline-flex; align-items:center; gap:.5rem; text-decoration:none;
+  padding:.6rem .9rem; border-radius:10px; border:1px solid #e5e7eb; color:#0f172a;
+  background:#fff; transition: all .2s ease;
+}
+.btn:hover{ transform: translateY(-2px); box-shadow:0 8px 20px rgba(0,0,0,.08); }
+.btn.primary{ background:#217f82; color:#fff; border-color:#217f82; }
+.btn.primary:hover{ background:#186c6d; border-color:#186c6d; }
+</style>
+
