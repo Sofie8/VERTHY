@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Genetic screening for mildew resistance in grape
-summary: Cold-hardy vines with durable resistance: phenotyping, controlled inoculation, and marker-assisted screening.
-hero: /images/me1.jpg
+summary: "Cold-hardy vines with durable resistance: phenotyping, controlled inoculation, and marker-assisted screening."
+hero: /images/ag-mildew.jpg
 permalink: /projects-ag/mildew-grape/
 ---
 
