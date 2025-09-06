@@ -2,7 +2,7 @@
 layout: page
 title: Upscaling bacterial inocula for remediation
 subtitle: VERTHY | 2025 | Melsbroek | Plant–microbe | Phytoremediation
-summary: "From lab to to field — upscaling and delivering of microbes as allies for plants."
+summary: "From lab to field — upscaling and delivering of microbes as allies for plants."
 hero: /images/inoc.jpg
 permalink: /projects/upscaling/
 ---
@@ -43,7 +43,7 @@ permalink: /projects/upscaling/
         <h3>What we did</h3>
         <ul>
           <li><strong>Bacterial genome mining & plasmidomics</strong> to discover functional traits (PGP, degradation, biocontrol).</li>
-          <li><strong>Metabolite screening</strong> to profile active degradation, mode of action and formation of transformation products.</li>
+          <li><strong>Metabolite screening</strong> to profile active degradation, mode of action and transformation products.</li>
           <li><strong>Bench → field workflows</strong>: soil drench inocula formulation, upscaling and stability testing.</li>
         </ul>
       </div>
@@ -63,19 +63,18 @@ permalink: /projects/upscaling/
           <li>Scale-up plan: pilot design → grower trials → productization.</li>
         </ul>
 
-        <!-- Results figure (optional, small and centered) -->
-        <div style="text-align:center; margin:1rem 0 0;">
-          {% include figure.html
-             image="/images/reactor.jpg"
-             caption="Example workflow: from genome mining to field validation."
-             style="display:block; margin:0 auto; max-width:3px; border-radius:10px;"
-          %}
-        </div>
+        <!-- Results figure -->
+        <figure class="results-figure">
+          <img src="{{ '/images/reactor.jpg' | relative_url }}" alt="Upscaling workflow results">
+          <figcaption>
+            Example workflow: from genome mining to field validation.
+          </figcaption>
+        </figure>
       </div>
     </div>
 
     <div class="cta-row">
-      <a class="btn" href="{{ '/projects-ag/' | relative_url }}"><i class="fas fa-arrow-left"></i> Back to AG projects</a>
+      <a class="btn" href="{{ '/projects/' | relative_url }}"><i class="fas fa-arrow-left"></i> Back to ENV projects</a>
       <a class="btn primary" href="{{ '/contact' | relative_url }}"><i class="fas fa-envelope"></i> Contact us</a>
     </div>
 
@@ -127,4 +126,23 @@ permalink: /projects/upscaling/
 .btn:hover{ transform: translateY(-2px); box-shadow:0 8px 20px rgba(0,0,0,.08); }
 .btn.primary{ background:#217f82; color:#fff; border-color:#217f82; }
 .btn.primary:hover{ background:#186c6d; border-color:#186c6d; }
+
+/* Results figure styling */
+.results-figure {
+  max-width: 320px;
+  margin: 1rem auto;
+  border-radius: 10px;
+  text-align: center;
+}
+.results-figure img {
+  display: block;
+  width: 50%;
+  height: auto;
+  border-radius: 10px;
+}
+.results-figure figcaption {
+  font-size: 0.85rem;
+  color: #64748b;
+  margin-top: 0.4rem;
+}
 </style>
