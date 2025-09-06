@@ -16,7 +16,7 @@ At VERTHY AGRICULTURE we combine plant and microbial genetics with field experie
   Breeding and selecting cold-hardy vines with durable resistance: field phenotyping, controlled inoculation, and marker screening of resistance loci using NGS.
 
 - **Microbiome engineering for sustainable agriculture**  
-  Genome mining, plasmidomics, and metabolomics to uncover traits for plant growth promotion, biocontrol, and pollutant degradation. Bench-to-field workflows (seed and foliar treatments, formulation, and success-control metrics).
+  Genome mining, plasmidomics, and metabolomics to uncover traits for plant growth promotion, biocontrol, and stress resilience. Bench-to-field workflows (seed and foliar treatments, formulation, and success-control metrics).
 
 {% include section.html %}
 
