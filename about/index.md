@@ -31,7 +31,7 @@ Through VERTHY, Sofie combines consultancy, remediation strategies, and genetic 
     <p>Our field team comprising engineers and agricultural entrepeneurs ensures that scientific advice is directly translated into effective on-site actions. From preparing the soil and supporting microbial inoculation to guiding planting schemes and overseeing project implementation, they provide the practical expertise needed to turn strategies into measurable results. </p>
   </div>
 
-  <div style="flex: 1 1 280px; max-width: 280px; text-align: center;">
+  <div style="flex: 1 1 270px; max-width: 270px; text-align: center;">
     <img src="/VERTHY/images/reactorlong.jpg" alt="Upscaling microbial inoculants" style="width:100%; height:auto; border-radius:8px;">
     <h3>R&D</h3>
     <p>Francisco Massot is VERTHY’s expert in upscaling microbial consortia for real-world applications. He earned his PhD studying the bacterial degradation of glyphosate and has since focused on how microbial communities can be engineered to accelerate the breakdown of persistent pollutants.
