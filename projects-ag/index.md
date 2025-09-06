@@ -6,7 +6,7 @@ nav:
 permalink: /projects-ag/
 ---
 
-# {% include icon.html icon="fa-solid fa-seedling" %} VERTHY AG Projects
+# {% include icon.html icon="fa-solid fa-seedling" %} AG Projects
 
 At VERTHY AGRICULTURE we combine plant and microbial genetics with field experience to develop practical solutions for sustainable agriculture.  
 We focus on improving crop resilience, supporting farmers with innovative inoculants, and translating molecular insights into real-world benefits.
