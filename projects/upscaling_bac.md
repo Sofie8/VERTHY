@@ -65,7 +65,7 @@ permalink: /projects/upscaling/
 
         <!-- Results figure -->
         <figure class="results-figure">
-          <img src="{{ '/images/reactor.jpg' | relative_url }}" alt="Upscaling workflow results">
+          <img src="{{ '/images/inoculant.png' | relative_url }}" alt="Upscaling workflow results">
           <figcaption>
             Example workflow: from genome mining to field validation.
           </figcaption>
