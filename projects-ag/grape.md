@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Genetic screening for mildew resistance in grape
-subtitle: VERTHY | 2025 | Viticulture | Borgloon
+subtitle: by VERTHY | 2025 | Viticulture | Borgloon
 summary: "Cold-hardy vines with durable resistance: phenotyping, controlled inoculation, and marker-assisted screening."
 hero: /images/minion.jpg
 permalink: /projects-ag/mildew-grape/
@@ -15,7 +15,7 @@ permalink: /projects-ag/mildew-grape/
   <div class="project-body">
     <h1 class="project-title">{{ page.title }}</h1>
 
-    <!-- Subtitle -->
+    <!-- Subtitle (meta line under title) -->
     {% if page.subtitle %}
       <p class="project-meta">{{ page.subtitle }}</p>
     {% endif %}
@@ -63,14 +63,13 @@ permalink: /projects-ag/mildew-grape/
           <li>Scale-up plan: nursery validation → grower pilots</li>
         </ul>
 
-        <!-- Results figure (reduced size) -->
-        <div style="text-align:center; margin:1rem 0 0;">
-          {% include figure.html
-             image="/images/me1.jpg"
-             caption="Collection of leaf samples for DNA-extraction and sequencing (Sep 2025)."
-             style="display:block; margin:0 auto; max-width:30px; border-radius:10px;"
-          %}
-        </div>
+        <!-- Results figure -->
+        <figure class="results-figure">
+          <img src="{{ '/images/me1.jpg' | relative_url }}" alt="Mildew resistance grape project results">
+          <figcaption>
+            Collection of leaf samples for DNA-extraction and sequencing (Sep 2025).
+          </figcaption>
+        </figure>
       </div>
     </div>
 
@@ -102,8 +101,8 @@ permalink: /projects-ag/mildew-grape/
 .project-body{ padding: 1.25rem 1.5rem 1.75rem; }
 .project-title{ margin: .2rem 0 0; font-size: 1.9rem; }
 
-/* Subtitle style */
-.project-meta{ color:#64748b; font-size:0.95rem; margin:0.25rem 0 1rem; }
+/* Meta subtitle under title */
+.project-meta{ color:#64748b; font-size:0.95rem; margin:0.2rem 0 0.8rem; }
 
 .project-subtitle{ color:#475569; margin: .25rem 0 1rem; font-size:1.1rem; }
 
@@ -127,4 +126,23 @@ permalink: /projects-ag/mildew-grape/
 .btn:hover{ transform: translateY(-2px); box-shadow:0 8px 20px rgba(0,0,0,.08); }
 .btn.primary{ background:#217f82; color:#fff; border-color:#217f82; }
 .btn.primary:hover{ background:#186c6d; border-color:#186c6d; }
+
+/* Results figure styling */
+.results-figure {
+  max-width: 320px;   /* keeps figure small */
+  margin: 1rem auto;
+  border-radius: 10px;
+  text-align: center;
+}
+.results-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+.results-figure figcaption {
+  font-size: 0.85rem;
+  color: #64748b;
+  margin-top: 0.4rem;
+}
 </style>
