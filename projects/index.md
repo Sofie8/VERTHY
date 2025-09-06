@@ -2,35 +2,57 @@
 title: Projects
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Our environmental projects
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-leaf" %} Projects
 
-## Projects we run (at a glance)
+At VERTHY ENV we work on ecological remediation and soil improvement by combining plant, microbe and data-driven approaches.  
+Below you’ll find an overview of our main project lines.
+
+## Projects at a glance
 
 - **PFAS phytoremediation**  
   Plant–microbe strategies to lower PFAS in soils and crops: screening plant genotypes, microbial inoculants/metabolites, and mineral amendments to reduce uptake or enhance degradation. Monitoring via soil analytics, plant-uptake, nutrient and soil type analyses, metagenomics, and metabolomics.
 
-- **Powdery mildew resistance in cold climate**  
-  Breeding and selecting cold-hardy vines with durable resistance: field phenotyping, controlled inoculation, and marker screening of resistance loci using NGS.
-
-- **Microbiome engineering for sustainable agriculture**  
-  Genome mining, plasmidomics, and metabolomics to uncover traits for plant growth promotion, biocontrol, and pollutant degradation. Bench-to-field workflows (seed and foliar treatments, formulation, and success-control metrics).
-
 - **Data & monitoring pipelines**  
   **MANANAS** (R-shiny) for amplicon/shotgun analysis, custom qPCR assays, and reproducible reporting dashboards that link **genomes → traits → field performance**.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include section.html %}
 
-{% include search-info.html %}
+## Core services
+
+- Site diagnostics & sampling plans
+- Phytoremediation feasibility assessments   
+- Molecular monitoring (qPCR, amplicon/shotgun, metabolomics)  
+- Pilot design: plant–microbe interventions  
+- Bacterial inoculum development  
+- Success-control monitoring  
+
+*The best way to understand our work is to browse example projects.*
 
 {% include section.html %}
 
-## Featured
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+# Featured projects
 
-{% include section.html %}
+<div class="proj-grid">
+  {% assign pages = site.pages | where_exp: "p","p.path contains 'projects/'" %}
+  {% for p in pages %}
+    {% if p.url != page.url %}
+      <a class="proj-card" href="{{ p.url | relative_url }}">
+        {% if p.hero %}<img src="{{ p.hero | relative_url }}" alt="{{ p.title }}">{% endif %}
+        <div class="proj-title">{{ p.title }}</div>
+        {% if p.summary %}<div class="proj-summary">{{ p.summary }}</div>{% endif %}
+      </a>
+    {% endif %}
+  {% endfor %}
+</div>
 
-## More
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+<style>
+.proj-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:20px;margin-top:1rem}
+.proj-card{text-decoration:none;border:1px solid #e5e7eb;border-radius:10px;overflow:hidden;background:#fff;transition:.2s}
+.proj-card:hover{transform:translateY(-4px);box-shadow:0 10px 20px rgba(0,0,0,.08)}
+.proj-card img{width:100%;height:160px;object-fit:cover}
+.proj-title{font-weight:700;color:#217f82;padding:.6rem .8rem}
+.proj-summary{color:#6b7280;padding:0 .8rem 1rem}
+</style>
