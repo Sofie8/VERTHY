@@ -33,12 +33,12 @@ permalink: /projects/pfas-phytoremediation/
       <div>
         <h3>Overview</h3>
         <p>
-          This 3-hectare site, owned by a project developer, lies at the heart of a <strong>PFAS risk area<strong> due to its proximity to former firefighting
+          This 3-hectare site, owned by a project developer, lies at the heart of a <strong>PFAS risk area</strong> due to its proximity to former firefighting
           training grounds and nearby industrial activities, which have caused PFOS and PFOA contamination in both the topsoil and groundwater. At the same time,
           we are at the border of nature and agriculture. This unique region, surrounded by nature, agriculture, and industry, offers both challenges and
           opportunities to integrate these seemingly dual objectives of expanding economic activities and ensuring a healthy living environment. Using nature
           based solutions, like <strong>phytoremediation</strong>, we aim to mitigate pollution risks of further PFAS spreading while simultaneously enhancing
-          biodiversity within the region. In this way, </strong>remediation and ecological management reinforce one another</strong>, while still allowing space
+          biodiversity within the region. In this way, <strong>remediation and ecological management reinforce one another</strong>, while still allowing space
           for redevelopment and the economic ambitions of the project developer.
         </p>
 
@@ -129,9 +129,10 @@ permalink: /projects/pfas-phytoremediation/
 }
 .results-figure img {
   display: block;
-  width: 20%;
+  width: 60%;
   height: auto;
   border-radius: 10px;
+  figure-align: center;
 }
 .results-figure figcaption {
   font-size: 0.85rem;
