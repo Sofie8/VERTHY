@@ -11,11 +11,11 @@ layout: default
 <div style="max-width:800px; margin: 0 auto; text-align:left;">
  <p><strong>VERTHY</strong> provides expertise in soil consultancy, ecological remediation, and climate-smart agriculture. 
 With us, you can rely on integrated soil analyses (CMA/ISO certified) and advice for the sustainable restoration of contaminated sites. 
-We also offer specialist knowledge in plant and microbial genetics for agricultural applications (see <em>VERTHY AG</em>).
+We also offer specialist knowledge in plant and microbial genetics for agricultural applications.
 
 <p>We support you throughout the entire process — from initial feasibility tests, to field pilots and monitoring. 
 
-<p>Click the buttons below to learn more about our projects and products, or choose “Learn more about us” to get to know our team.</p>
+<p>Click the buttons below to learn more about our projects, or choose “Learn more about us” to get to know our team.</p>
 
 <!-- "Learn more about us" button -->
 <div class="center" style="margin: 2rem 0;">
